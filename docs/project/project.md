@@ -5,6 +5,6 @@ hide:
 
 # What is my fight?
 
-![](C:\Users\ahmed\Desktop\AY_Files\07_University\IAAC\Bootcamp\221007_Coding Class\AY_Website\mdef-template\docs\project\221009_What-is-your-fight)
+![](https://github.com/help-AY/MDEF/blob/main/docs/project/221009_What-is-your-fight/221004_What%20is%20your%20Fight.png)
 
 test 101.
