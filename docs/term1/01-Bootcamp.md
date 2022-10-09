@@ -7,15 +7,7 @@ hide:
 
 ![](../images/perezoso.jpg)
 
-![](../images/221004_What is your Fight.png)
-
-![](../images/221004_What is your Fight.png)
-
-![](../docs/term1/221004_What is your Fight.png)
-
-![](..\docs\term1\221004_What is your Fight.png)
-
-![](../docs/images/221009_what-is-your-fight/221004_What is your Fight.png)
+![](../images/221004_WIYF.png)
 
 
 
