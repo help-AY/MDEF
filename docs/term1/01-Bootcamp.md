@@ -5,17 +5,18 @@ hide:
 
 # what is my fight?
 
-![](..pictures/221009_What-is-your-fight/221004_What is your Fight.png)
-
-![](C:Users\ahmed\Desktop\AY_Files\07_University\IAAC\Bootcamp\221007_Coding Class\AY_Website\mdef-template\docs\term1\Pictures\221009_What-is-your-fight)
-
-![](C:Users/ahmed/Desktop/AY_Files/07_University/IAAC/Bootcamp/221007_Coding Class/AY_Website/mdef-template/docs/term1/Pictures/221009_What-is-your-fight)
-
-![](..Pictures/221009_What-is-your-fight)
-
 ![](../images/perezoso.jpg)
 
-![](../pictures/221009_what-is-your-fight/221004_what is your Fight.png)
+![](../images/221004_What is your Fight.png)
+
+![](../images/221004_What is your Fight.png)
+
+![](../docs/term1/221004_What is your Fight.png)
+
+![](..\docs\term1\221004_What is your Fight.png)
+
+![](../docs/images/221009_what-is-your-fight/221004_What is your Fight.png)
+
 
 
 
