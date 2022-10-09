@@ -43,11 +43,11 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: yellow
-    accent: purple
+    primary: white
+    accent: red
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Noto Sans Mono
     code: Cutive Mono
   icon:
     logo: material/memory
