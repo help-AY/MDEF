@@ -11,10 +11,11 @@ hide:
 
 ![](C:Users/ahmed/Desktop/AY_Files/07_University/IAAC/Bootcamp/221007_Coding Class/AY_Website/mdef-template/docs/term1/Pictures/221009_What-is-your-fight)
 
-![](..docs/term1/Pictures/221009_What-is-your-fight)
+![](..Pictures/221009_What-is-your-fight)
 
 ![](../images/perezoso.jpg)
 
+![](../pictures/221009_what-is-your-fight/221004_what is your Fight.png)
 
 
 
