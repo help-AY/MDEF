@@ -3,8 +3,8 @@ hide:
     - toc
 ---
 
-# What is my fight?
+# what is my fight?
 
-![pls](https://github.com/help-AY/MDEF/blob/main/docs/project/221009_What-is-your-fight/221004_What%20is%20your%20Fight.png)
+![pls](../project/221009_What-is-your-fight/221004_What is your Fight.png)
 
 test 101.
