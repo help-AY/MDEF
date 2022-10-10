@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Ahmed Yakout - MDEF & Fab Lab Barcelona
+site_name: ahmed yakout - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Ahmed Yakout
-copyright: Copyleft 2021 "Ahmed Yakout" - GNU Free Documentation License
+site_author: ahmed uakout
+copyright: Copyleft 2021 "ahmed yakout" - GNU Free Documentation License
 repo_name: 'help-ay : Github Repo'
 site_url: https://help-ay.github.io/MDEF/about/me/
 repo_url: 'https://github.com/help-AY/MDEF'
@@ -17,6 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - Test: term1/03-Test.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
