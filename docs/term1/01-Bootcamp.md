@@ -7,4 +7,14 @@ hide:
 
 ![](../images/221009_what-is-your-fight/221004_WIYF.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+lets get a little bit personal. with everything going on in our modern world, my mind got overwhelmed with feelings of unsettlement and anxiety.
+
+there is so much wrong with the world that we, as normal everyday people, can not control. OR so we think.
+
+i found myself struggling to focus on just one issue, so i decided that my first fight would be with my own subconscious. the world is out of control, and that idea frightens me.
+
+by winning the fight inside my head, i will be better suited to use my skills and talents to better serve my community. fear tends to control and render us, humans, as frozen and broken.
+
+the poster is a quote by, 1988 noble prize winner, egyptian writer - najeeb mahfouz - it translates directly to "fear does not prevent death, but it prevents life."
+
+i choose to fight my fear and not let it dictate my impact on the world.
