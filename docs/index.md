@@ -1,13 +1,11 @@
 # hi there ~
 
-![](images/perezoso.jpg)
 
-# this is my journey of discovery
-
+**this is my journey of discovery**
 
 
-i hope there are as many successes as there will be fails.
+i hope there are as many successes as there will be failures.
 
-feel free to check it out, or don't - up to you really :)
+feel free to check out the work, or don't - up to you, really :)
 
 __AY
