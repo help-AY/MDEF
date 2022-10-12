@@ -2,7 +2,7 @@
 
 ![](images/perezoso.jpg)
 
-## this is my journey of discovery
+# this is my journey of discovery
 
 
 
