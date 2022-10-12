@@ -4,7 +4,7 @@
 
 usually a curious, sometimes anxious, designer.
 
-i have multiple interests in life, but lately i have really been trying to find myself away from the corporate/commercial reality. i am so tired of working from money - i want to work for a purpose instead.
+i have multiple interests in life, but lately i have really been trying to find myself away from the corporate/commercial reality. i am so tired of working for money - i want to work for a purpose instead.
 
  my background in architecture gives me the world's respect and skill to help change reality for many people. our studies helped us realize the human thinking aka "thinking as the user". i just want to use my skill to make a positive change in the world.
 
