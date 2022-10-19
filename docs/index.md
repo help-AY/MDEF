@@ -1,4 +1,4 @@
-# hello friends ~
+# **hello friends** ~
 
 
 **this is my journey of discovery**
