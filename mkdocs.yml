@@ -15,9 +15,9 @@ nav:
       - 01_prototyping: design-studio/01_prototyping.md
   - workspace :
       - term-1:
-          - 01_bootcamp: term1/01_bootcamp.md
-          - 02_AoWS: term1/02_atlas-of-weak-signals.md
-          - 03_bio & agri zero: term1/03_the-bio-&-agri-zero.md
+          - 01_bootcamp: term-1/01_bootcamp.md
+          - 02_AoWS: term-1/02_atlas-of-weak-signals.md
+          - 03_bio & agri zero: term-1/03_the-bio-&-agri-zero.md
 
       - term 2:
           - digi: term1/01-Bootcamp.md
