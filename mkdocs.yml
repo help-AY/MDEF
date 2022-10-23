@@ -11,13 +11,13 @@ repo_url: 'https://github.com/help-AY/MDEF'
 nav:
   - home: index.md
   - about: about/me.md
-  - master project:
-      - initial ideas: project/project.md
-  - reflections :
+  - design studio:
+      - 01_prototyping: project/01_prototyping.md
+  - workspace :
       - term 1:
-          - bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-          - bio & agri zero: term1/03-the Bio & Agri Zero .md
+          - 01_bootcamp: term1/01-bootcamp.md
+          - 02_AoWS: term1/02-atlas of weak signals.md
+          - 03_bio & agri zero: term1/03-the bio & agri zero.md
 
       - term 2:
           - digi: term1/01-Bootcamp.md
