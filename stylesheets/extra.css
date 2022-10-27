@@ -1,7 +1,7 @@
 :root>* {
 
     --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-fg-color: pink;
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
