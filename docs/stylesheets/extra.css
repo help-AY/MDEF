@@ -12,6 +12,10 @@
 }
 
 
+.md-main{
+  background-color: rgb(176, 176, 176)
+}
+
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
