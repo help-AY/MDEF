@@ -50,10 +50,9 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Noto Sans Mono
     code: Cutive Mono
-
-logo: images/AY_Logo.svg
-favicon: images/AY_Logo.svg
-
+  icon:
+    logo: material/memory
+  favicon: images/AY_Logo.svg
   features:
     - instant
     - navigation.expand
