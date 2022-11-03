@@ -51,7 +51,7 @@ theme:
     text: Noto Sans Mono
     code: Press Start 2P
   icon:
-    logo: images/AY_Logo.svg
+    logo: 
   favicon: images/AY_Logo.svg
   features:
     - instant
