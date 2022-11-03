@@ -44,12 +44,12 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: #B0B0B0
+    primary: white
     accent: red
   font:
     # See available fonts at https://fonts.google.com/
     text: Noto Sans Mono
-    code: Cutive Mono
+    code: Press Start 2P
   icon:
     logo: images/AY_Logo.svg
   favicon: images/AY_Logo.svg
