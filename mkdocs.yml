@@ -51,7 +51,7 @@ theme:
     text: Noto Sans Mono
     code: Cutive Mono
   icon:
-    logo: material/memory
+    logo: images/AY_Logo.svg
   favicon: images/AY_Logo.svg
   features:
     - instant
