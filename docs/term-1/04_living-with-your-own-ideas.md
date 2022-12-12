@@ -5,4 +5,4 @@ hide:
 
 # living with your own ideas
 
-wip
+this was week was very interesting.
