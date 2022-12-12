@@ -7,6 +7,16 @@ hide:
 
 ![](../images/221016_AOWS/Workspace_AY.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+my main focus after receiving the atlas of weak signals was solely on the type of positive change we could make for refugees through the education of design thinking. 
+
+by educating people through small interventions to understand the main keys of designing a product on multiple scales. empowering through the process to become makers, fixers, or even creators..
+
+![](../images/221016_AOWS/221013_Brainstorming.jpg)
+
+in a way this fight is also against "the imposter syndrome" the fear of not being good enough - the fear of being inadequate - the fear of needing to rely on someone. a bit intangible, but a man can dream.
+
+![](../images/221016_AOWS/221014_Mariana-Lecture.jpg)
+
+the refugees of this world have seen too much - i feel a personal duty to somehow "help" / "improve" / "understand". 
 
 ![](../images/MT01/scorpio_blow.jpg)
