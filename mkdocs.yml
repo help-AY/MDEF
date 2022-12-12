@@ -14,8 +14,7 @@ nav:
   - master project:  
   - workspace :
       - term-1:
-          -design-studio:
-              - 01_prototyping: term-1/design-studio/01_prototyping.md
+          - 00_design studio: term-1/00_design-studio.md
           - 01_bootcamp: term-1/01_bootcamp.md
           - 02_AoWS: term-1/02_atlas-of-weak-signals.md
           - 03_bio & agri zero: term-1/03_the-bio-&-agri-zero.md
