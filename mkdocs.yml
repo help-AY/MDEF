@@ -11,7 +11,7 @@ repo_url: 'https://github.com/help-AY/MDEF'
 nav:
   - home: index.md
   - about: about/me.md
-  - master project:  
+  - master project:
   - workspace :
       - term-1:
           - 00_design studio: term-1/00_design-studio.md
@@ -55,7 +55,7 @@ theme:
     text: Noto Sans Mono
     code: Press Start 2P
   icon:
-    logo: images/AY_Logo.svg
+    logo: 
   favicon: images/AY_Logo.svg
   features:
     - instant
