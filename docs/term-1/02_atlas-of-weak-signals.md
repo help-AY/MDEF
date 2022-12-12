@@ -19,4 +19,4 @@ in a way this fight is also against "the imposter syndrome" the fear of not bein
 
 the refugees of this world have seen too much - i feel a personal duty to somehow "help" / "improve" / "understand". 
 
-![](../images/MT01/scorpio_blow.jpg)
+__AY
