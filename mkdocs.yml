@@ -14,14 +14,14 @@ nav:
   - master project:
   - workspace :
       - term-1:
-          - 00_design studio: term-1/00_design-studio.md
-          - 01_bootcamp: term-1/01_bootcamp.md 
-          - 02_AoWS: term-1/02_atlas-of-weak-signals.md
-          - 03_bio & agri zero: term-1/03_the-bio-&-agri-zero.md
-          - 04_living with your own ideas: term-1/04_living-with-your-own-ideas.md
-          - 05_tech beyond the myth: term-1/05_tech-beyond-the-myth.md
-          - 06_community engagement: term-1/06_community-engagement.md
-          - 07_extended inteligence: term-1/07_extended-intelligences.md
+        - 00_design studio: term-1/00_design-studio.md
+        - 01_bootcamp: term-1/01_bootcamp.md 
+        - 02_AoWS: term-1/02_atlas-of-weak-signals.md
+        - 03_bio & agri zero: term-1/03_the-bio-&-agri-zero.md
+        - 04_living with your own ideas: term-1/04_living-with-your-own-ideas.md
+        - 05_tech beyond the myth: term-1/05_tech-beyond-the-myth.md
+        - 06_community engagement: term-1/06_community-engagement.md
+        - 07_extended inteligence: term-1/07_extended-intelligences.md
 
       - term 2:
           - digi: term1/01-Bootcamp.md
