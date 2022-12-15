@@ -53,8 +53,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Noto Sans Mono
     code: Press Start 2P
-  icon:
-    logo: images/AY_Logo.svg
+  logo: favicon
   favicon: images/AY_Logo.svg
   features:
     - instant
