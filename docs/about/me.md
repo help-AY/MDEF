@@ -1,6 +1,6 @@
 # who is ahmed?
 
-![](../images/221009_About/profilepic.jpg)
+![](../images/_About/profilepic.jpg)
 
 usually a curious, sometimes anxious, designer.
 

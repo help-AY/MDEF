@@ -8,8 +8,6 @@ hide:
 ## prototyping experience
 
 ### 01_bloc84_aavs-dubai
-
-
 april_2019
 
 Bloc 84 is a shading structure made up of 84 unique modules.
@@ -37,8 +35,6 @@ Our unit worked on shell structures generated through a catenary form finding me
 
 
 ### 02_dune
-
-
 november_2021
 
 A vase inspired by the swift movement of the sand and the natural curvature of its dunes.
