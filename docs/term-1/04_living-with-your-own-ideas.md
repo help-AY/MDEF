@@ -4,14 +4,13 @@ hide:
 ---
 
 # living with your own ideas
+november_2022
 
 this was week was very interesting.
 
 initially after a couple of weeks of very theoratical-heavy approach - it was fun to get physical with the scrap materials, conceptually.
 
 ## make a companion_
-
-november_2022
 
 the idea of a companion that you create for a certain job was a bit egotistical in my head. i do not like to think of myself as a creator for the sake of creating but rather for a purpose. does this make sense? it does in my head. we can discuss this further - privately.
 
@@ -26,8 +25,6 @@ bob was an artifial form of life - almost like a plant, but fake and made out of
 bob was a reflection of me in an inanimate form type of deal. I took a walk when i needed to. I went and sat in the sun when i needed to. i went and drank water when i needed to. bob acted as the best reminded to care for the simplest things in life. i find it quite hilarious that i "fake" cared for him, also. i opened up the window, placed him in the sun. quite silly but it was interesting.
 
 ## first person perspective_
-
-november_2022
 
 after initially struggling with a focus for the video, the essense of my fight came back to me. what was the thing i wanted to do the most? build - maker - DO.
 
