@@ -11,6 +11,9 @@ repo_url: 'https://github.com/help-AY/MDEF'
 nav:
   - home: index.md
   - about: about/me.md
+  - master project:
+      - initial ideas: master-project/00_initial-ideas.md
+      - interventions: master-project/01_interventions.md
   - workspace:
       - term-1:
           - 00_design studio: term-1/00_design-studio.md
