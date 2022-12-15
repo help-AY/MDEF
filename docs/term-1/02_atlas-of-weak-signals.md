@@ -5,6 +5,8 @@ hide:
 
 # atlas of weak signals
 
+october_2022
+
 ![](../images/221016_AOWS/Workspace_AY.jpg)
 
 my main focus after receiving the atlas of weak signals was solely on the type of positive change we could make for refugees through the education of design thinking. 

@@ -12,7 +12,7 @@ nav:
   - home: index.md
   - about: about/me.md
   - master project:
-  - workspace :
+  - workspace:
       - term-1:
           - 00_design studio: term-1/00_design-studio.md
           - 01_bootcamp: term-1/01_bootcamp.md 

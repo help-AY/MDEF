@@ -5,6 +5,8 @@ hide:
 
 # what is my fight?
 
+october_2022
+
 ![](../images/221009_what-is-your-fight/221004_WIYF.png)
 
 lets get a little bit personal.
