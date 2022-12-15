@@ -55,7 +55,7 @@ theme:
     code: Press Start 2P
   icon:
     logo: favicon.svg
-  favicon: images/AY_Logo-W-02.svg
+  favicon: images/AY_Logo.svg
   features:
     - instant
     - navigation.expand
