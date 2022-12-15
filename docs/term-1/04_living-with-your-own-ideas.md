@@ -38,9 +38,7 @@ what do i want to build though? which skill do i wanna learn? who would even enj
 ![](../images/00_Design-Studio/Page2.jpg)
 
 the challenge now was to design a certain article, whether it be a pair of pants or a tote bag (keep in mind that i have no prior experience in textiles) and invite a few people to join this small intervention to create a small intimate workshop (without assessing their skills prior).
-
 <iframe src="https://player.vimeo.com/video/781278017?h=1364af1ee3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="221106_Just-Make-Series_001_Tote-Bag"></iframe>
-
 we had a lot of fun building and designing the tote bag here - none of us really had any experience with textiles - eventhough Caglar was very profcient with using a needle and thread and he helped us a lot understand how to sew.
 
 a successful intervention? i would say so :)
