@@ -23,6 +23,11 @@ the idea of this small worshop was to understand the basics of a 3D printer - cl
 ## 03_intervention - just-make series_cardboard furniture
 december_2022
 
+wip
 
 ## 04_intervention - just-make series_tote 2.0
 december_2022
+
+wip
+
+__AY 
