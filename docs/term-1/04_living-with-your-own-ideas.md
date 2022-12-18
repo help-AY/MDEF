@@ -18,7 +18,7 @@ ANYWAYS.
 
 yes, my "creation" - BOB.
 
-insert image here -
+![](../images/00_Design-Studio/IMG_1579.jpg)
 
 bob was an artificial form of life - almost like a plant, but fake and made out of cardboard, aluminum foil, baking paper, and some zip ties. so yes, a plant, but fake. bob needs to be left in a place with light - like me. bob needed to get some fresh air every now and then - like me. also in a fake way bob needed to be watered - like me (not in a fake way though). 
 
