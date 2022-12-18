@@ -25,6 +25,6 @@ the last part of the module was to imagine an AI with a purpose - my group (Aman
 
 i leave you with this message - try to do it yourself - also (look down)
 
-![](../images/07_EI/Page6.jpg)
+![](../images/07_EI/page6.jpg)
 
 __AY

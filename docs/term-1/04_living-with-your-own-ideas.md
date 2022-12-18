@@ -26,7 +26,7 @@ bob was a reflection of me in an inanimate form type of deal. I took a walk when
 
 ## first person perspective_
 
-after initially struggling with a focus for the video, the essense of my fight came back to me. what was the thing i wanted to do the most? build - maker - DO.
+after initially struggling with a focus for the video, the essense of my fight came back to me. what was the thing i wanted to do the most? build - make - DO.
 
 ![](../images/00_Design-Studio/Page1.jpg)
 
