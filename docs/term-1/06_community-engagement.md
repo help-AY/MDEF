@@ -19,3 +19,5 @@ in a general sense, the community i would prefer to target is the class of peopl
 we visited a few cool places throughout this week - the one that had the most impact on me was cibico - because they managed to take their niche design practice (space and graphic design) and apply another layer of complexity (niche to it - i.e. the bio material banners. it is one of my dreams to do something similar one day. 
 
 ![](../images/06_CE/Page2.jpg)
+
+__AY
