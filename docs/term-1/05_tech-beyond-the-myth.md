@@ -32,7 +32,7 @@ since we had a lot of motors, our first immediate thought was to creating a mech
 
 ![](../images/05_TBTM/Page2.jpg)
 
-after making sure the parts were fully functional - we moved forward by creating as marc said "an automatic annoying knocking machine" - it will keep knocking until you answer your door :) / philosophically it was created to interrupt the attack on your attention by the social medias - gives you a reason to get out of the house and enjoy the here and now.
+after making sure the parts were fully functional - we moved forward by creating as marc said "an automatic annoying knocking machine" - it will keep knocking until you answer your door :) // philosophically it was created to interrupt the attack on your attention by the social medias - gives you a reason to get out of the house and enjoy the here and the now.
 
 ![](../images/05_TBTM/sketch.png)
 ![](../images/05_TBTM/circuit.png)
@@ -40,6 +40,6 @@ after making sure the parts were fully functional - we moved forward by creating
 
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/1F_JKIxENr4" title="221118_Useless-Machine_KnockKnock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-the disassembly process was really eye opening for me - the fablab squad were all so wonderful. it really felt like a linear hierarchy here - i felt i was interacting with collegues and friends rather than teachers. they shared their knowledge with us, they helped us out whenever they could - absolutely wonderful! i give it a solid 8.5 out of 10. 
+the disassembly process was really eye opening for me - the fablab squad were all so wonderful. it really felt like a linear hierarchy here - i felt i was interacting with collegues and friends rather than teachers. they shared their knowledge with us, they helped us out whenever they could - absolutely wonderful! i give it a solid 8.5 out of 10 - would do it again :)
 
 __AY
