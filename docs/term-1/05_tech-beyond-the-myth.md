@@ -28,7 +28,7 @@ after all the breaking down of the printer, we were tasked with creating a devic
 
 ![](../images/05_TBTM/Page1.jpg)
 
-since we had a lot of motors, our first immediate thought was to creating a mechanically moving device. and after a lot of brainstorming we let our inner-child thoughts come out on top.
+since we had a lot of motors, our first immediate thought was to create a mechanically moving device. and after a lot of brainstorming we let our inner-child take over.
 
 ![](../images/05_TBTM/Page2.jpg)
 

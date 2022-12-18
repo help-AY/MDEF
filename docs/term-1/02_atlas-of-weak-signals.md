@@ -4,7 +4,6 @@ hide:
 ---
 
 # atlas of weak signals
-
 october_2022
 
 ![](../images/02_AOWS/Workspace_AY.jpg)
