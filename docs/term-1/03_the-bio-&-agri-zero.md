@@ -29,7 +29,7 @@ although it is cast the same way concrete is, this new material is no substitute
 
 it is still a new market as the united states just legalized the industrial hemp production. rather than importing the material from europe, the us market will grow exponentially as the local supply chains grow.
 
-An interesting read about the importance of impact of the use of hemp concrete can be found **[here.](https://www.researchgate.net/publication/324647603_Hemp_Concrete_-_A_Traditional_and_Novel_Green_Building_Material)**
+An interesting *article* about the importance of impact of the use of hemp concrete can be found **[here.](https://www.researchgate.net/publication/324647603_Hemp_Concrete_-_A_Traditional_and_Novel_Green_Building_Material)**
 
 it discusses the readily available material and the possible contribution towards the climate change problems.
 
