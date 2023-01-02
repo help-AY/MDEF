@@ -21,7 +21,7 @@ assignment_
 
 article linked **[here.](https://www.anthropocenemagazine.org/2022/01/carbon-negative-construction/)**
 
-issues_ second only to water, concrete is the most used material. concrete is a material that offers strength, duravility, and is very weather resistent. *how do you take a material that is readily available in all the architectural buildings of the world and make it more green? 
+issues_ second only to water, concrete is the most used material. concrete is a material that offers strength, duravility, and is very weather resistent. *how do you take a material that is readily available in all the architectural buildings of the world and make it more green?*
 
 the introduction of "hempcrete" which is a composite that mixes hemp (the plant) with a lime-based binder to create this carbon negative material - this material is capable of sequestering 100+ kg of carbon diaoxide per square meter. 
 
