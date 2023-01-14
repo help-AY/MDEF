@@ -14,5 +14,11 @@ this module of the course allowed us to reimagine a world that does not just hav
 
 please check out "the everything manifesto" by IAM Studio **[here.](https://medium.com/iam-journal/the-everything-manifesto-a-thought-experiment-for-the-next-billion-seconds-bcd9b9c938dc)** if you want to learn more about the agency's philosophy.
 
+one of the tools used as a medium of discussion is a survey type thing - "a day in my post-technological life (2054)", a billion seconds from now. 
+
+![](../images/08_DFTNBS/Page10.jpg)
+
+
+
 ![](../images/08_DFTNBS/Page4.jpg)
 
