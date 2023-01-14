@@ -20,6 +20,8 @@ one of the tools used as a medium of discussion is a survey type thing - "a day 
 
 we had a lot of interesting conversation but what caught my attention the most was the talk about de-growth as a concept of living. our reality now a days always revolves around growth - economy, wealth, skills, blah blah... etc. when actually there could be alot o benefits in the pursue of degrowth policies - less resources ussed, less over sea traveling, less carbon emission used, more reliance on local talent and practices. 
 
+![](../images/08_DFTNBS/Page3.jpg)
+
 a gripe that i have with the world is how west-centric it is. someone in this little city in *insert your favourite european/north american country here* is doing something a certain way and the entire planet tries to copy because of this false sense of elitism. 
 
 the favoritism of westerns in my land is quite surprising, it is absolutely insane how much more respect  a human who was born several thousand kilometers away from you gets in our third world countrties. funny how all our homes were attacked, looted, terrorized, destroyed thanks to all the previous "collonisers" and now we respect them more, we imitate them more, and funny enough we do our best to move to their lands and be one of them... 
@@ -30,3 +32,6 @@ that was a rant. was not really planned. was not on purpose. but reach out and w
 
 ![](../images/08_DFTNBS/Page4.jpg)
 
+i think the best part of the course was definitely the enthusiasm andreas brought to us. his curiousty to ask questions and most of all his "invitations" to read, learn, write, share... also his use of linear time in a spiral environment was quite funny. :)
+
+__AY
