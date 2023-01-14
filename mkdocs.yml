@@ -26,8 +26,9 @@ nav:
           - 07_extended inteligence: term-1/07_extended-intelligences.md
 
       - term 2:
+          - 00_design studio: term2/00-design-studio.md
           - 08_dftnbs: term2/08_dftnbs.md
-          - studio: term1/01-Bootcamp.md
+          
 
 
 
