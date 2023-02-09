@@ -8,16 +8,10 @@ october_2022
 
 ![](../images/02_AOWS/221004_WIYF.png)
 
-lets get a little bit personal.
+In the fast-paced and often tumultuous modern world, it's not uncommon to feel overwhelmed by feelings of anxiety. With so many pressing issues and global challenges, it can be difficult to know where to start in making a difference. However, I realized that my first step towards making a positive impact in the world starts with facing my own fears and anxieties.
 
-with everything going on in our modern world, we could get overwhelmed with feelings of anxiety. there is so much wrong with the world that we, as normal everyday people, can not control or so we think.
+The world may seem like a chaotic and uncontrollable place, but by taking control of my own thoughts and emotions, I am better equipped to use my skills and talents to serve my community. Fear has the power to immobilize and hold us back, but I have chosen to fight against it and become the proactive and creative individual I have always dreamed of being.
 
-i found myself struggling to focus on just one issue, so i decided that my first fight would be with my own subconscious. the world is out of control, and that idea frightens me.
-
-by winning the fight inside my head, i will be better suited to use my skills and talents to better serve my community. fear tends to control and render us, humans, as frozen and broken.
-
-the poster is a quote by, 1988 noble prize winner, egyptian writer - najeeb mahfouz - it translates directly to "fear does not prevent death, but it prevents life."
-
-i choose to fight my "fear" and become the maker / do-er / creator i always dreamt of being.
+This sentiment is echoed by Nobel Prize-winning Egyptian writer, Naguib Mahfouz, who once said, "Fear does not prevent death, but it prevents life." I take this quote to heart and strive to live a life free from the constraints of fear, so that I may fully embrace all that the world has to offer.
 
 __AY

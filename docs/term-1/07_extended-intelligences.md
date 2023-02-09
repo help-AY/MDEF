@@ -6,17 +6,17 @@ hide:
 # extended intelligence
 december_2022
 
-I am not a giant fan of AI - solely becasue of the recent boom in AI art, nfts, blochchain - but also i am extremely under educated in this topic. so this module was quite interesting, specially hearing from the experts about the perception, ethics, and capabilities of AI.
+i have mixed feelings about Artificial Intelligence. on one hand, the recent surge in AI art, NFTs, and blockchain has made me wary. on the other hand, i acknowledge my limited knowledge and understanding of the topic, making this module particularly intriguing. It was fascinating to listen to experts speak about their perceptions, ethics, and the potential capabilities of AI.
 
 ![](../images/07_EI/Page1.jpg)
 
-the two seminar was quite difficult to digest, purely because of the amount of information that was dumped on us. i felt all these modules (throughout the semester) were an information dump more than anything and you just had to find one small portion of interest to hang on to. for me that was the part about the actual machine learning.
+the seminars were a challenge to fully grasp, due to the sheer volume of information presented. throughout the semester, i felt that many of the modules were more like information dumps, and one had to pick and choose what they found most interesting to focus on. in my case, the section on actual machine learning was of particular interest.
 
 ![](../images/07_EI/Page5.jpg)
 
-google colab is an easy way to get a quick hands-on experience with AI - the system can be ran remotely without needing a local connection (interesting) - completely safe for your device (interesting) - all available in minutes (interesting/scary). endless possibilities wether it is to identify objects in an image or simulate a human face that does not exist (scary).
+google Colab is an accessible platform to gain practical experience with AI. Its remote accessibility, security for your device, and quick setup make it a desirable tool. the possibilities are endless, whether it be identifying objects in an image or generating a fake human face (which can be both exciting and frightening).
 
-the last part of the module was to imagine an AI with a purpose - my group (Amanda, Claudia, Mytro, Korbi, Stella) - we worked on an AI that can take a picture of an object and eventually break it down into small digestable steps of how it is made. the system would take into account the skill of the user, availablity of local materials, complexity of said object and give out a set of instructions to build it themselves at home. interesting in concept - difficult to execute (mainly cuz we are not ai engineers). it is nice to imagine though..
+the final part of the module tasked us with imagining an AI with a purpose. My group, consisting of Amanda, Claudia, Mytro, Korbi, and Stella, worked on developing an AI that could analyze a picture of an object and then provide a step-by-step guide for how to make it, taking into consideration the user's skill level, availability of materials, and the object's complexity. although the concept was intriguing, executing it was a challenge, particularly because none of us are AI engineers. nonetheless, it was a nice exercise to consider the possibilities.
 
 ![](../images/07_EI/Page2.jpg)
 ![](../images/07_EI/Page3.jpg)

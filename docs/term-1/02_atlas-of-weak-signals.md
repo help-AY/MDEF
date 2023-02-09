@@ -8,16 +8,16 @@ october_2022
 
 ![](../images/02_AOWS/Workspace_AY.jpg)
 
-my main focus after receiving the atlas of weak signals was solely on the type of positive change we could make for refugees through the education of design thinking. 
+my primary objective after obtaining the Atlas of Weak Signals was to investigate the potential for creating positive change for refugees through design thinking education.
 
-by educating people through small interventions to understand the main keys of designing a product on multiple scales. empowering through the process to become makers, fixers, or even creators..
+by providing individuals with a comprehensive understanding of the design process and key principles, i aim to empower them to become proactive agents of change. Through small educational interventions, i believe we can equip people with the tools to design solutions on multiple scales and become makers, problem-solvers, and even creators.
 
 ![](../images/02_AOWS/221013_Brainstorming.jpg)
 
-in a way this fight is also against "the imposter syndrome" the fear of not being good enough - the fear of being inadequate - the fear of needing to rely on someone. a bit intangible, but a man can dream.
+this battle against fear and anxiety is also a fight against the "imposter syndrome," the self-doubt that arises from the fear of not being good enough, capable enough, or self-sufficient enough. while these fears can feel intangible, I am inspired to dream of a world where they no longer hold us back.
 
 ![](../images/02_AOWS/221014_Mariana-Lecture.jpg)
 
-the refugees of this world have seen too much - i feel a personal duty to somehow "help" / "improve" / "understand". 
+the refugees of our world have suffered so much, and I feel a strong sense of personal responsibility to help, support, and understand their experiences. By overcoming my own fears, I hope to become a more effective ally and advocate for those in need. 
 
 __AY
