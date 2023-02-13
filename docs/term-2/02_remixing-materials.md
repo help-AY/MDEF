@@ -22,6 +22,8 @@ we did a lot of then and there experiments using a material of our choice to cre
 
 ![](../images/09_RM/Page4.jpg)
 
+we also got a chance to visit simbiotica's hradquarters and learn a bit more about mycelium - and how it is made and used in a design space. it was quite interesting to learn that it could be 3d printed and then stacked on top of each other and eventually bond with time because it is a self maintaing material. 
+
 part 2.
 
 material narratives + presentation
@@ -34,9 +36,11 @@ we were tasked to choose and analyse 3 materials - one from the class references
 
 ![](../images/09_RM/pic5.jpg)
 
-
 after doing research about food waste and deciding to move forward with onion peels as experiment base we gathered a bunch and started "experimenting" link to the presentation can be found **[here](https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view)**
 
-<iframe src="https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=viewer" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 __AY
