@@ -12,9 +12,11 @@ under the expert guidance of laura campos, our remixing materials workshop came 
 
 we did a lot of then and there experiments using a material of our choice to create a leather object using a mold and a naturally occuring resin - as well as a synthetic natural leather as a small introduction to bio-materials. quite educational but it was not my favorite part of this module.  
 
+![](../images/09_RM/pic1-c.jpg)
+
 ![](../images/09_RM/Page2.jpg)
 
-![](../images/09_RM/pictures/Page2.jpg)
+
 
 ![](../images/09_RM/Page3.jpg)
 ![](../images/09_RM/Page4.jpg)
