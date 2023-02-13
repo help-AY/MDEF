@@ -35,7 +35,7 @@ we were tasked to choose and analyse 3 materials - one from the class references
 ![](../images/09_RM/pic5.jpg)
 
 
-**[title](https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+after doing research about food waste and deciding to move forward with onion peels as experiment base we gathered a bunch and started "experimenting" link to the presentation can be found **[here](https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
 <iframe src="https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
