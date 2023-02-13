@@ -26,6 +26,17 @@ part 2.
 
 material narratives + presentation
 
+we were tasked to choose and analyse 3 materials - one from the class references, one from around us, and one ideal material.
 
+![](../images/09_RM/pic3.jpg)
+
+![](../images/09_RM/pic4.jpg)
+
+![](../images/09_RM/pic5.jpg)
+
+
+**[title](https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+
+<iframe src="https://www.canva.com/design/DAFZa8jFXIw/eHFGsIhc5sIJ2mv7PbrpqA/view?utm_content=DAFZa8jFXIw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 __AY
