@@ -10,4 +10,12 @@ under the expert guidance of laura campos, our remixing materials workshop came 
 
 ![](../images/09_RM/Page1.jpg)
 
+we did a lot of experiments using 
+
+![](../images/09_RM/Page2.jpg)
+
+
+
+![](../images/09_RM/Page3.jpg)
+![](../images/09_RM/Page4.jpg)
 __AY
