@@ -19,6 +19,8 @@ for this week's grasshopper class i wanted to challenge myself a bit more than t
 
 ![](../images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
 
+![](../images/00_fabacademy/week2_SSP_Step2_triangle.jpg)
+
 i struggled with this step the most. i could not figure out how to transform a base triangle mesh into a hexagonal one. it took me a few hours and a lot of trial and error to understand the possibilities of a solution.
 
 ![](../images/08_DFTNBS/Page1.jpg)
@@ -35,7 +37,7 @@ so far we have a structure - but we are yet to figure out how to teselate the me
 
 ### part b
 
-edu tasked us to create an interseting 
+edu tasked us to create an inter-locking device using digital fabrication. we had to build an object without using glue or 
 
 
 ## week3_
@@ -43,3 +45,5 @@ morse code from a button.
 
 ## week4_micro-challenge #1
 tile deco
+
+## week5_
