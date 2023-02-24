@@ -6,7 +6,7 @@ hide:
 # remixing materials
 january_2023
 
-## part 1_
+## part a
 
 under the expert guidance of laura campos, our remixing materials workshop came to life with a dynamic start! we were given an insightful glimpse into Simbiotica, laura's unique approach to using and experimenting with bio-materials. i was  drawn in by her engaging presentation, which sparked my imagination as she delved into the rich history of these materials, the intricacies of the design process, and the endless possibilities for design applications. It was a truly entertaining and enlightening experience that left a lasting impression.
 
@@ -24,13 +24,13 @@ we did a lot of then and there experiments using a material of our choice to cre
 
 we also got a chance to visit simbiotica's hradquarters and learn a bit more about mycelium - and how it is made and used in a design space. it was quite interesting to learn that it could be 3d printed and then stacked on top of each other and eventually bond with time because it is a self maintaing material. 
 
-## part 2_
+## part b
 
 material narratives
 
 we were tasked to choose and analyse 3 materials - one from the class references, one from around us, and one ideal material.
 
-## part 3_
+## part c
 
 final presentation
 

@@ -8,13 +8,12 @@ february_2023
 
 prototyping for design.
 
-## part 1_
+## week1_
 music from a beeper.
 
-## part 2_ 
-grasshopper experimentation.
+## week2_grasshopper-experimentation.
 
-### a_
+### part a
 
 for this week's grasshopper class i wanted to challenge myself a bit more than the usual, as i already have decent knowledge of the software. Edu, gave us an interesting about CAD "computer aided design" and he drove into the details of the capabilities of the machine and so on. one of the examples he gave us was **[the shell star pavilion](https://www.matsys.design/shellstar-pavilion)** by MATSYS. i had seen it before but never had the courage to even attempt to construct the script to build it. i am obviously no expert parametric designer - i can not say i cracked it completely but i for sure am on the correct path. (hopefully).
 
@@ -34,13 +33,13 @@ i followed along their basic diagrams of the initial idea and proceeded from the
 
 so far we have a structure - but we are yet to figure out how to teselate the mesh faces as individuals to create the openings - i can see that there is an attractor points that dictate how large the openeings are. also i have no clue how to build the final fabrication section. that will be for me to figure out later on.
 
-### b_
+### part b
 
 edu tasked us to create an interseting 
 
 
-## part 3_
+## week3_
 morse code from a button.
 
-## micro-challenge #1_
+## week4_micro-challenge #1
 tile deco
