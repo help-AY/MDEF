@@ -22,6 +22,8 @@ for this week's grasshopper class i wanted to challenge myself a bit more than t
 
 i struggled with this step the most. i could not figure out how to transform a base triangle mesh into a hexagonal one. it took me a few hours and a lot of trial and error to understand the possibilities of a solution.
 
+![](../images/08_DFTNBS/Page1.jpg)
+
 ![](../images/00_fabacademy/SSP_Step2_triangle.jpg)
 
 we did figure it out eventually tho :)

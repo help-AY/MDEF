@@ -6,9 +6,7 @@ hide:
 # living with your own ideas
 november_2022
 
-this week was very interesting.
-
-initially after a couple of weeks of very theoratical-heavy approach - it was fun to get physical with the scrap materials, conceptually.
+this week was quite interesting. After several weeks of a highly theoretical approach, it was refreshing to get hands-on with scrap materials and bring conceptual ideas to life.
 
 ## make a companion_
 
