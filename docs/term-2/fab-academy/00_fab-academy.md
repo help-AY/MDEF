@@ -52,11 +52,17 @@ i used grasshopper's image mapping tool to transform color values (in this case 
 
 i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank god this exists :). the plug-in also gave the components a value to help sort them out later. 
 
-![](../images/00_fabacademy/week2_JP_00-min.jpg)
+![testImage](../images/00_fabacademy/week2_JP_00-min.jpg)
 
-![](./docs/images/00_fabacademy/week2_JP_00-min.jpg)
+![testImage1](docs/images/00_fabacademy/week2_JP_00-min.jpg)
 
-![](https://raw.github.com/help-AY/MDEF.git/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
+![testImage2](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
+
+![testImage3](https://github.com/help-AY/MDEF/docs/images/00_fabacademy/week2_JP_00-min.jpg)
+
+![testImage4](https://gist.github.com/help-AY/MDEF/docs/images/00_fabacademy/week2_JP_00-min.jpg)
+
+![testImage5](https://gist.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
 
 
 ## week3_
