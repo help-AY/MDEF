@@ -54,6 +54,9 @@ i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank
 
 ![](../images/00_fabacademy/week2_JP_00-min.jpg)
 
+![](/docs/images/00_fabacademy/week2_JP_00-min.jpg)
+
+
 ## week3_
 morse code from a button.
 
