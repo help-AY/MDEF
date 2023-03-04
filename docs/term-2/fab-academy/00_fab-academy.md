@@ -37,8 +37,22 @@ so far we have a structure - but we are yet to figure out how to teselate the me
 
 ### part b
 
-edu tasked us to create an inter-locking device using digital fabrication. we had to build an object without using glue or 
+edu tasked us to create an inter-locking device using digital fabrication. we had to build an object without using glue or fasteners. immidiately i got the idea of trying to replicate an image using cardboard. quite an interesting but relatievly simple concept.
 
+i used grasshopper's image mapping tool to transform color values (in this case black and white), by shade, into a set of points that moved up in the z-axis based on the parameters set. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcRcVjkjs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcRcVjkjs&#x2F;view?utm_content=DAFcRcVjkjs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank god this exists :). the plug-in also gave the components a value to help sort them out later. 
+
+![](../images/00_fabacademy/week2_JP_00-min.jpg)
 
 ## week3_
 morse code from a button.
