@@ -23,15 +23,16 @@ for this week's grasshopper class i wanted to challenge myself a bit more than t
 
 i struggled with this step the most. i could not figure out how to transform a base triangle mesh into a hexagonal one. it took me a few hours and a lot of trial and error to understand the possibilities of a solution.
 
-![](../images/08_DFTNBS/Page1.jpg)
+![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
 
-![](../images/00_fabacademy/week2_SSP_Step2_triangle.jpg)
+
+![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Step2_triangle.jpg)
 
 we did figure it out eventually tho :)
 
 i followed along their basic diagrams of the initial idea and proceeded from there. 
 
-![](../images/00_fabacademy/week2_SSP_Animation.mov) 
+![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Animation.mov)
 
 so far we have a structure - but we are yet to figure out how to teselate the mesh faces as individuals to create the openings - i can see that there is an attractor points that dictate how large the openeings are. also i have no clue how to build the final fabrication section. that will be for me to figure out later on.
 
@@ -52,18 +53,7 @@ i used grasshopper's image mapping tool to transform color values (in this case 
 
 i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank god this exists :). the plug-in also gave the components a value to help sort them out later. 
 
-![testImage](../images/00_fabacademy/week2_JP_00-min.jpg)
-
-![testImage1](docs/images/00_fabacademy/week2_JP_00-min.jpg)
-
-![testImage2](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
-
-![testImage3](https://github.com/help-AY/MDEF/docs/images/00_fabacademy/week2_JP_00-min.jpg)
-
-![testImage4](https://gist.github.com/help-AY/MDEF/docs/images/00_fabacademy/week2_JP_00-min.jpg)
-
-![testImage5](https://gist.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
-
+![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
 
 ## week3_
 morse code from a button.
