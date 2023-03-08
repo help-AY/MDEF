@@ -19,6 +19,10 @@ for this week's grasshopper class i wanted to challenge myself a bit more than t
 
 ![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
 
+![](../../images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
+
+
+
 i struggled with this step the most. i could not figure out how to transform a base triangle mesh into a hexagonal one. it took me a few hours and a lot of trial and error to understand the possibilities of a solution.
 
 ![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Step2_triangle.jpg)
@@ -44,7 +48,7 @@ i used grasshopper's image mapping tool to transform color values (in this case 
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcRcVjkjs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcRcVjkjs&#x2F;view?utm_content=DAFcRcVjkjs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Minimalist Beige Cream Brand Proposal Presentation</a> by ahmed_h_yakout
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcRcVjkjs&#x2F;view?utm_content=DAFcRcVjkjs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">PicturePuzzle</a> by ahmed_h_yakout
 
 i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank god this exists :). the plug-in also gave the components a value to help sort them out later. 
 
