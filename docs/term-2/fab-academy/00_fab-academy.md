@@ -31,7 +31,12 @@ we did figure it out eventually tho :)
 
 i followed along their basic diagrams of the initial idea and proceeded from there. 
 
-![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Animation.mov)
+![remote](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Animation.mov)
+![local](../../images/00_fabacademy/week2_SSP_Animation.mov)
+
+![type:video](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Animation.mov)
+![type:video](../../images/00_fabacademy/week2_SSP_Animation.mov)
+
 
 so far we have a structure - but we are yet to figure out how to teselate the mesh faces as individuals to create the openings - i can see that there is an attractor points that dictate how large the openeings are. also i have no clue how to build the final fabrication section. that will be for me to figure out later on.
 
