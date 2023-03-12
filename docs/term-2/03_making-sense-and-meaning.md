@@ -111,6 +111,7 @@ in conclusion, the readings provide insights into the challenges facing humanity
 *by: gregory bateson*
 
 **-introduction:**
+  
   - bateson argues that modern western thought is based on a set of false assumptions that have led to a crisis in the natural world and human society.
 
   - he proposes an alternative approach to understanding the world, based on cybernetics and systems theory.
