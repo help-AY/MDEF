@@ -32,7 +32,7 @@ nav:
           - 00_design studio: term-2/00_design-studio.md
           - 01_dftnbs: term-2/01_dftnbs
           - 02_remixing materials: term-2/02_remixing-materials.md
-          
+          - 03_making-sense-and-meaning: term-2/03_making-sense-and-meaning.md
 
           
 
@@ -82,6 +82,7 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - mkdocs-video
 
 markdown_extensions:
   - extra
