@@ -41,11 +41,11 @@ in conclusion, the readings provide insights into the challenges facing humanity
 
 ## readings summary_
 
-### //reading1_design-as-participation_
+### **//reading1_design-as-participation_**
 *by: kevin slavin*
 
 **-introduction:**
-  - the design has traditionally been seen as a top-down process, with designers dictating solutions to problems.
+  > the design has traditionally been seen as a top-down process, with designers dictating solutions to problems.
   - the authors argue that design should be more participatory, with all stakeholders having a say in the design process.
 
 **-participation:**
@@ -69,7 +69,7 @@ in conclusion, the readings provide insights into the challenges facing humanity
   - the authors conclude by arguing that participatory design is necessary for creating solutions that are truly responsive to the needs of all stakeholders.
   - they call for a shift away from top-down design approaches and toward a more inclusive, collaborative, and ethical design practice.
 
-### //reading2_a history of the world in seven cheap things**
+### **//reading2_a history of the world in seven cheap things**
 *by: jason-w.-moore*
 
 **-introduction:**
@@ -107,7 +107,7 @@ in conclusion, the readings provide insights into the challenges facing humanity
 **-conclusion:**
   - the authors conclude by arguing that the exploitation of these "cheap things" has come at a high cost to people and the planet and that a new approach to economics and ecology is needed to address the social and environmental crises of our time.
 
-### //reading3_steps to an ecology of mind
+### **//reading3_steps to an ecology of mind**
 *by: gregory bateson*
 
 **-introduction:**
