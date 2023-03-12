@@ -41,7 +41,7 @@ in conclusion, the readings provide insights into the challenges facing humanity
 
 ## readings summary_
 
- ### //reading1_design-as-participation_
+### //reading1_design-as-participation_
 *by: kevin slavin*
 
 **-introduction:**
