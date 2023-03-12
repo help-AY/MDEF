@@ -135,5 +135,4 @@ in conclusion, the readings provide insights into the challenges facing humanity
   - he calls for a new approach to science and technology that is based on a deep understanding of the relationship between humans and the natural world, and that is guided by ethical principles that promote sustainability and social justice.
 
 
-
 __AY
