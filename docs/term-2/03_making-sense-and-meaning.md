@@ -15,7 +15,7 @@ the readings reflect a range of experiences and perspectives related to the earl
 
 respectfully, i found the class readings to be heavily focused on europe and america, and it was challenging for me to connect with the material. as someone who grew up in the middle east, i have always felt like my experiences were vastly different from those of people in the west. while it's important to acknowledge and study major events in history, it's equally important to recognize that focusing solely on one period or region will not solve the world's problems or shift perspectives on individual struggles.
 
-i empathize deeply with those who have suffered from atrocities, but it's also crucial to understand that they may not fully understand the complexities and nuances of my own people's struggles. when we're constantly discussing topics such as communication and resilience, it can feel like we're being left out of the conversation.
+i empathize deeply with those who have suffered from atrocities, but it's also crucial to understand that they may not fully understand or be aware of the complexities and nuances of my own people's struggles. when we're constantly discussing topics such as communication and resilience, it can feel like we're being left out of the conversation.
 
 these are just some of the thoughts that i've had when reflecting on my own experiences.
 
