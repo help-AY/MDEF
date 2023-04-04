@@ -88,6 +88,7 @@ we started sharing our interests and discussing the fields we wanted to investig
 ![](../../images/00_fabacademy/week4_MCI_alignment.jpg)
 
 defining key concepts_
+
   - diy projects
   - fabrication
   - modular
@@ -110,7 +111,8 @@ initially, we discussed both 3D and 2D options, and ultimately decided to concen
 based on these concepts, we determined that we wanted to delve into the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
 
 design process_
-  - drid board
+
+  - grid board
   - geometric pieces
   - pattern design
   - photo digitalisation
