@@ -17,8 +17,6 @@ music from a beeper.
 
 for this week's grasshopper class i wanted to challenge myself a bit more than the usual, as i already have decent knowledge of the software. Edu, gave us an interesting about CAD "computer aided design" and he drove into the details of the capabilities of the machine and so on. one of the examples he gave us was **[the shell star pavilion](https://www.matsys.design/shellstar-pavilion)** by MATSYS. i had seen it before but never had the courage to even attempt to construct the script to build it. i am obviously no expert parametric designer - i can not say i cracked it completely but i for sure am on the correct path. (hopefully).
 
-![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
-
 ![](../../images/00_fabacademy/week2_SSP_Step1_triangle.jpg)
 
 
