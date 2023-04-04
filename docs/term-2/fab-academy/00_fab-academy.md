@@ -3,17 +3,16 @@ hide:
     - toc
 ---
 
-# fab academy
+# fab academy _ prototyping for design
 february_2023
 
-prototyping for design.
-
 ## **week1_**
-music from a beeper.
+music from a beeper
 
 i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.
 
-## **week2_grasshopper-experimentation**
+## **week2_**
+grasshopper-experimentation
 
 ### part a
 
