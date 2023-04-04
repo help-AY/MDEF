@@ -6,12 +6,12 @@ hide:
 # fab academy _ prototyping for design
 february_2023
 
-## **electronics and coding_**
+## 01_electronics and coding_
 music from a beeper
 
 i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.
 
-## **digital fabrication_**
+## 02_digital fabrication_
 grasshopper-experimentation
 
 ### part a
@@ -68,7 +68,7 @@ here is the final artifact.
 
 i wish we focused more on the physcial exploration rather than theoratical studies. 
 
-## networking and interfaces_
+## 03_networking and interfaces_
 morse code from a light.
 
 this week's exersice was really fun. we had to somehow build a telegraph with the arduino board, using a LDR sensor.
@@ -81,4 +81,4 @@ lastly, we needed to somehow combine both codes together in order to read the va
 
 overall it was fun.
 
-## week5_
+## 04_
