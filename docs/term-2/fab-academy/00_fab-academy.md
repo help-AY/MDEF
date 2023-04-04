@@ -6,12 +6,12 @@ hide:
 # fab academy _ prototyping for design
 february_2023
 
-## **week1_**
+## **electronics and coding_**
 music from a beeper
 
 i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.
 
-## **week2_**
+## **digital fabrication_**
 grasshopper-experimentation
 
 ### part a
@@ -62,9 +62,13 @@ here is the final artifact.
 
 ![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
 
+### part c
+
+
+
 i wish we focused more on the physcial exploration rather than theoratical studies. 
 
-## week3_
+## networking and interfaces_
 morse code from a light.
 
 this week's exersice was really fun. we had to somehow build a telegraph with the arduino board, using a LDR sensor.
@@ -76,52 +80,5 @@ another issue we found, after wen joined us with her arduino uno, is that we cou
 lastly, we needed to somehow combine both codes together in order to read the values. the LED would light up with a press of a button and the LDR would read the duration of the click. this is something we could not easily figure out. all the codes we found online gave us a bunch of errors. the encoding of the values sadly was not possible :( - part 3 - fail. 
 
 overall it was fun.
-
-## week4_micro-challenge #1
-**tile deco** w/ caglar and marc
-
-*play in the physical - convert to the digital*
-
-### project alignment
-we started sharing our interests and discussing the fields we wanted to investigate in order to implement them into our interventions. these three circles illustrate the intersection of our main interests.
-
-![](../../images/00_fabacademy/week4_MCI_alignment.jpg)
-
-defining key concepts_
-
-  - diy projects
-  - fabrication
-  - modular
-  - digital crafts
-  - making/production
-  - gamification
-
-based on these concepts, we determined that we wanted to delve into the modularity of diy design. specifically, we aimed to explore how to simplify the design process by employing a clear methodology that combines physical and digital tools. to accomplish this, we established three stages:
-
-**stage 1** - 2D tile scale design pattern
-
-**stage 2** - 3D facade iteration
-
-**stage 3** - public installation
-
-### project development
-
-initially, we discussed both 3D and 2D options, and ultimately decided to concentrate on the 2D alternative. for a basic tile decoration, we required vinyl designs that would be attached to a stencil to transfer the ceramic ink. rather than supplying pre-made patterns, stickers, or vinyls, we opted to create a grid board that would enable users to create their own distinct designs.
-
-based on these concepts, we determined that we wanted to delve into the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
-
-design process_
-
-  - grid board
-  - geometric pieces
-  - pattern design
-  - photo digitalisation
-  - vinyl cutting
-  - stencil making
-  - tile production
-  - pattern building
-
-
-
 
 ## week5_
