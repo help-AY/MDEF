@@ -96,7 +96,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help-ay.github.io/MDEF/about/me/term-2/fab-academy/01_micro-challenge_01/</loc>
+         <loc>https://help-ay.github.io/MDEF/about/me/term-2/fab-academy/02_digital-fabrication/</loc>
+         <lastmod>2023-04-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help-ay.github.io/MDEF/about/me/term-2/fab-academy/03_networking-and-interfaces/</loc>
          <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
