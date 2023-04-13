@@ -51,7 +51,8 @@ i always struggled with electronics. for some reason the simple concepts that ar
     }
 
 **resources**
-- Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
+
+ - Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
 
 ## section b
 *morse code from a light*
