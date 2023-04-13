@@ -11,47 +11,45 @@ hide:
 i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.
 
 
-i wish we focused more on the physcial exploration rather than theoratical studies.
-
 *below is the source code_*
 
 '
-#include "pitches.h"
+  #include "pitches.h"
  
-#define BUZZER_PIN 9
+  #define BUZZER_PIN 9
  
-int melody[] = {
-  // Notes goes here
-};
+  int melody[] = {
+    // Notes goes here
+  };
  
-int durations[] = {
-  // Notes duration goes here
-};
+  int durations[] = {
+    // Notes duration goes here
+  };
  
-void setup()
-{
-  pinMode(BUZZER_PIN, OUTPUT);
-}
- 
-void loop()
-{
-  int size = sizeof(durations) / sizeof(int);
- 
-  for (int note = 0; note < size; note++) {
-    //to calculate the note duration, take one second divided by the note type.
-    //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
-    int duration = 1000 / durations[note];
-    tone(BUZZER_PIN, melody[note], duration);
- 
-    //to distinguish the notes, set a minimum time between them.
-    //the note's duration + 30% seems to work well:
-    int pauseBetweenNotes = duration * 1.30;
-    delay(pauseBetweenNotes);
- 
-    //stop the tone playing:
-    noTone(BUZZER_PIN);
+  void setup()
+  {
+    pinMode(BUZZER_PIN, OUTPUT);
   }
-}
+   
+  void loop()
+  {
+    int size = sizeof(durations) / sizeof(int);
+   
+    for (int note = 0; note < size; note++) {
+     //to calculate the note duration, take one second divided by the note type.
+     //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
+      int duration = 1000 / durations[note];
+     tone(BUZZER_PIN, melody[note], duration);
+   
+      //to distinguish the notes, set a minimum time between them.
+      //the note's duration + 30% seems to work well:
+      int pauseBetweenNotes = duration * 1.30;
+      delay(pauseBetweenNotes);
+   
+      //stop the tone playing:
+      noTone(BUZZER_PIN);
+    }
+  }
 '
 
 **resources**

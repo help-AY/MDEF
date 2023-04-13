@@ -54,13 +54,19 @@ design process_
 
 a diy tool kit was developed to create unique tile patterns and combinations.
 
+![](../../images/00_fabacademy/week4_MCI_grid.png)
+
 during the grid board design process, efforts were made to prevent shading and reflections that would negatively impact the vinyl's photo-digitalization quality. however, due to the defined acrylic thickness and magnet sizes, these issues couldn't be completely eliminated. to address this, the acrylic surfaces were covered with a matte vinyl, which improved the photo-digitalization quality by reducing reflections. although the vinyl transfer onto the grid board proved to be challenging, the team was able to improve the design through trial and error, ultimately achieving satisfactory results with the third vinyl design.
+
+![](../../images/00_fabacademy/week4_MCI_vinyl.png)
 
 #### geometric pieces
 
 an issue we encountered was the instability of certain geometric pieces used to create the tile decoration design due to having only one magnet. During the presentation, one constructive criticism was to double the size of the grid board to avoid this problem, which could be a viable solution.
 
-We also discovered an efficient way to fix the magnets in place without wasting them. We experimented with different hole sizes in the acrylic board and covered each side of the acrylic with vinyl to ensure the magnets stay in place. However, the pieces can still be easily disassembled if needed.
+![](../../images/00_fabacademy/week4_MCI_patterns.png)
+
+we also discovered an efficient way to fix the magnets in place without wasting them. we experimented with different hole sizes in the acrylic board and covered each side of the acrylic with vinyl to ensure the magnets stay in place. however, the pieces can still be easily disassembled if needed.
 
 #### photo digitalisation
 
