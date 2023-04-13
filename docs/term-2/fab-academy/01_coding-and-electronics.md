@@ -15,7 +15,8 @@ i wish we focused more on the physcial exploration rather than theoratical studi
 
 *below is the source code_*
 
-'#include "pitches.h"
+'
+#include "pitches.h"
  
 #define BUZZER_PIN 9
  
@@ -50,7 +51,8 @@ void loop()
     //stop the tone playing:
     noTone(BUZZER_PIN);
   }
-}'
+}
+'
 
 **resources**
 - Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
