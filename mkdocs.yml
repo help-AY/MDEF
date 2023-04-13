@@ -28,7 +28,10 @@ nav:
       - term-2:
           - fab-academy:
               00_fab academy: term-2/fab-academy/00_fab-academy.md
-              01_micro-challenge_01: term-2/fab-academy/01_micro-challenge_01
+              01_coding-and-electronics: term-2/fab-academy/01_coding-and-electronics.md
+              02_digital-fabrication: term-2/fab-academy/02_digital-fabrication.md
+              03_networking-and-interfaces: term-2/fab-academy/03_networking-and-interfaces.md
+              04_micro-challenges: term-2/fab-academy/04_micro-challenges
           - 00_design studio: term-2/00_design-studio.md
           - 01_dftnbs: term-2/01_dftnbs
           - 02_remixing materials: term-2/02_remixing-materials.md
