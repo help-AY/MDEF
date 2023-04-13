@@ -508,6 +508,20 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#section-b" class="md-nav__link">
+    section b
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-c" class="md-nav__link">
+    section c
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -656,6 +670,20 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#section-b" class="md-nav__link">
+    section b
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#section-c" class="md-nav__link">
+    section c
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -681,37 +709,44 @@
 <p><em>music from a beeper</em></p>
 <p>i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.</p>
 <p><em>below is the source code_</em></p>
-<p>&rsquo;&lsquo;&rsquo;#include &ldquo;pitches.h&rdquo;</p>
-<h1 id="define-buzzer_pin-9">define BUZZER_PIN 9<a class="headerlink" href="#define-buzzer_pin-9" title="Permanent link">&para;</a></h1>
-<p>int melody[] = {
+<div class="codehilite"><pre><span></span><code>#include &quot;pitches.h&quot;
+
+#define BUZZER_PIN 9
+
+int melody[] = {
   // Notes goes here
-};</p>
-<p>int durations[] = {
+};
+
+int durations[] = {
   // Notes duration goes here
-};</p>
-<p>void setup()
+};
+
+void setup()
 {
   pinMode(BUZZER_PIN, OUTPUT);
-}</p>
-<p>void loop()
+}
+
+void loop()
 {
-  int size = sizeof(durations) / sizeof(int);</p>
-<p>for (int note = 0; note &lt; size; note++) {
-    //to calculate the note duration, take one second divided by the note type.
-    //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
-    int duration = 1000 / durations[note];
-    tone(BUZZER_PIN, melody[note], duration);</p>
-<div class="codehilite"><pre><span></span><code>//to distinguish the notes, set a minimum time between them.
+int size = sizeof(durations) / sizeof(int);
+
+for (int note = 0; note &lt; size; note++) {
+//to calculate the note duration, take one second divided by the note type.
+//e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
+int duration = 1000 / durations[note];
+tone(BUZZER_PIN, melody[note], duration);
+
+//to distinguish the notes, set a minimum time between them.
 //the note&#39;s duration + 30% seems to work well:
 int pauseBetweenNotes = duration * 1.30;
 delay(pauseBetweenNotes);
 
 //stop the tone playing:
 noTone(BUZZER_PIN);
+  }
+}
 </code></pre></div>
 
-<p>}
-}&rsquo;&lsquo;&rsquo;</p>
 <p><strong>resources</strong>
 - Playing popular songs with Arduino and a buzzer <strong><a href="https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer">here</a></strong></p>
 <h2 id="section-b">section b<a class="headerlink" href="#section-b" title="Permanent link">&para;</a></h2>
