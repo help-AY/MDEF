@@ -12,7 +12,7 @@ i always struggled with electronics. for some reason the simple concepts that ar
 
 *below is the schematics for the arduino_*
 
-![](../../images/00_fabacademyCnE_buzzer-schematic.png)
+![](../../images/00_fabacademy/week1_buzzer-schematic.png)
 
 *below is the source code_*
 
