@@ -10,6 +10,9 @@ hide:
 
 i always struggled with electronics. for some reason the simple concepts that are explaioned do not get through to my head - mainly because this is something i have no prior knowledge off. i figured the buzzer out with the caglar, he helped me figure it out, but i wanted to test myself - i tried recreating it by myself.
 
+*below is the schematics for the arduino_*
+
+![](../../images/00_fabacademyCnE_buzzer-schematic.png)
 
 *below is the source code_*
 
@@ -50,9 +53,21 @@ i always struggled with electronics. for some reason the simple concepts that ar
       }
     }
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFgXurCuwk&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFgXurCuwk&#x2F;watch?utm_content=DAFgXurCuwk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">nokia</a> by _AY
+
 **resources**
 
  - Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
+
+ - HiBit buzzer song git archive **[here](https://github.com/hibit-dev/buzzer)
+
 
 ## section b
 *morse code from a light*
