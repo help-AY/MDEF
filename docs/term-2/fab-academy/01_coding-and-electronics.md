@@ -64,13 +64,13 @@ i always struggled with electronics. for some reason the simple concepts that ar
 
 **resources**
 
- - Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
+ - playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
 
  - HiBit buzzer song git archive **[here](https://github.com/hibit-dev/buzzer)**
 
 
 ## section b
-*morse code from a light*
+*inputs and outputs - morse code from a light*
 
 this week's exersice was really fun. we had to somehow build a telegraph with the arduino board, using a LDR sensor.
 
@@ -91,6 +91,8 @@ overall it was fun.
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFgXxMmIMw&#x2F;watch?utm_content=DAFgXxMmIMw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">morse code</a> by _AY
 
-## section c
+**resources**
+- fabacademy inputs and outposts blog post **[here](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/inputsoutputs/)**
+
 
 __AY
