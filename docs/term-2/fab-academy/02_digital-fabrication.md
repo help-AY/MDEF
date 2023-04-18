@@ -32,6 +32,10 @@ i followed along their basic diagrams of the initial idea and proceeded from the
 
 so far we have a structure - but we are yet to figure out how to teselate the mesh faces as individuals to create the openings - i can see that there is an attractor points that dictate how large the openeings are. also i have no clue how to build the final fabrication section. that will be for me to figure out later on.
 
+**resources**
+- grasshopper basics video tutorial **[here](https://www.youtube.com/playlist?list=PLNJOYBRyCJkE7F7TccGvkfRIGlHUUU30y)** 
+- grasshopper written guide **[here](https://aae280.files.wordpress.com/2014/10/mode-lab-grasshopper-primer-third-edition.pdf)** 
+
 ## section b
 *grasshopper-experimentation*
 
@@ -54,9 +58,10 @@ here is the final artifact.
 
 ![](../../images/00_fabacademy/week2_JP_00-min.png)
 
+
 ## section c
 *3d-scanning and 3d printing*
 
 
- 
+
 __AY
