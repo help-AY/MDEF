@@ -66,7 +66,7 @@ i always struggled with electronics. for some reason the simple concepts that ar
 
  - Playing popular songs with Arduino and a buzzer **[here](https://www.hibit.dev/posts/62/playing-popular-songs-with-arduino-and-a-buzzer)**
 
- - HiBit buzzer song git archive **[here](https://github.com/hibit-dev/buzzer)
+ - HiBit buzzer song git archive **[here](https://github.com/hibit-dev/buzzer)**
 
 
 ## section b
