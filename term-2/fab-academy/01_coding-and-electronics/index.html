@@ -756,7 +756,75 @@ noTone(BUZZER_PIN);
 <p><em>inputs and outputs - morse code from a light</em></p>
 <p>this week&rsquo;s exersice was really fun. we had to somehow build a telegraph with the arduino board, using a LDR sensor.</p>
 <p>caglar and i started researching, since we both have no background in electronics, we did some reseearch until we found a code that worked. after testing we found a lot of odd readings from the sensor. i did some damage to my ESP32 by plugging it in the wrong power outlet, the 5V one, rather than the 3V. after replacing the device we got much more accurate readings. part 1 - great success.</p>
+<p><em>ldr schematics below</em></p>
+<p><img alt="" src="../../../images/00_fabacademy/week6_ldr-code.png" /></p>
+<p><em>ldr code below</em></p>
+<div class="codehilite"><pre><span></span><code>/* Photocell simple testing sketch.
+
+Connect one end of the photocell to 5V, the other end to Analog 0.
+Then connect one end of a 10K resistor from Analog 0 to ground
+
+For more information see http://learn.adafruit.com/photocells */
+
+int photocellPin = A2;     // the cell and 10K pulldown are connected to a0
+int photocellReading;     // the analog reading from the analog resistor divider
+
+void setup(void) {
+// We&#39;ll send debugging information via the Serial monitor
+Serial.begin(9600); 
+pinMode(photocellPin, INPUT);
+}
+
+void loop(void) {
+  photocellReading = analogRead(photocellPin);
+
+  // Serial.print(&quot;Analog reading = &quot;);
+  Serial.println(photocellReading);     // the raw analog reading
+
+  // We&#39;ll have a few threshholds, qualitatively determined
+  // if (photocellReading &lt; 10) {
+  //   Serial.println(&quot; - Dark&quot;);
+  // } else if (photocellReading &lt; 200) {
+  //   Serial.println(&quot; - Dim&quot;);
+  // } else if (photocellReading &lt; 500) {
+  //   Serial.println(&quot; - Light&quot;);
+  // } else if (photocellReading &lt; 800) {
+  //   Serial.println(&quot; - Bright&quot;);
+  // } else {
+  //   Serial.println(&quot; - Very bright&quot;);
+  // }
+  delay(50);
+}
+</code></pre></div>
+
 <p>another issue we found, after wen joined us with her arduino uno, is that we couldn&rsquo;t get the LED pin to light up (we were going to use it as an indicator of a long and short press for the morse code). victor gave us some pointers, and eventually we found a cable was misbehaving. (also it was v. important that we make sure that the code is being uploaded correctly). part 2 - great success.</p>
+<p><em>led schematics below</em></p>
+<p><img alt="" src="../../../images/00_fabacademy/week6_led-code.png" /></p>
+<p><em>led code below</em></p>
+<div class="codehilite"><pre><span></span><code>const int ledPin = 12;// We will use the internal LED
+const int buttonPin = 7;// the pin our push button is on
+
+void setup()
+{
+  pinMode(ledPin,OUTPUT); // Set the LED Pin as an output
+  pinMode(buttonPin,INPUT); // Set the Tilt Switch as an input
+}
+
+void loop()
+{
+  int digitalVal = digitalRead(buttonPin); // Take a reading
+
+  if(LOW == digitalVal)
+  {
+    digitalWrite(ledPin,LOW); //Turn the LED off
+  }
+ else
+  {
+    digitalWrite(ledPin,HIGH);//Turn the LED on
+  }
+}
+</code></pre></div>
+
 <p>lastly, we needed to somehow combine both codes together in order to read the values. the LED would light up with a press of a button and the LDR would read the duration of the click. this is something we could not easily figure out. all the codes we found online gave us a bunch of errors. the encoding of the values sadly was not possible :( - part 3 - fail. </p>
 <p>overall it was fun.</p>
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
