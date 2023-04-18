@@ -164,6 +164,7 @@ overall it was fun.
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFgXxMmIMw&#x2F;watch?utm_content=DAFgXxMmIMw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">morse code</a> by _AY
 
 **resources**
+
   - fabacademy inputs and outposts blog post **[here](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/inputsoutputs/)**
 
 __AY

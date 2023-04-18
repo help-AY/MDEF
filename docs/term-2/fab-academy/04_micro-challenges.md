@@ -15,7 +15,7 @@ we started sharing our interests and discussing the fields we wanted to investig
 
 ![](../../images/00_fabacademy/week4_MCI_alignment.jpg)
 
-**defining key concepts_
+**defining key concepts_**
 
   - diy projects
   - fabrication
