@@ -58,7 +58,6 @@ i used rhinonest - a tool to sort *a million* curves in a dedicated space. thank
 here is the final artifact.
 
 ![](../../images/00_fabacademy/week2_JP_00-min.jpg)
-![](https://raw.github.com/help-AY/MDEF/main/docs/images/00_fabacademy/week2_JP_00-min.jpg)
 
 ## section c
 *3d-printing and 3d-scanning*
