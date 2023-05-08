@@ -18,8 +18,6 @@ so, we worked on the distributed design platform reflection tree by ourselves an
 
 on the second day of learning, we focused on developing skills such as participation, collaboration, integration, and patience. we explored horizontal dynamics and engaged in active interactions with our peers. i was particularly interested in my teammates' projects, which encouraged me to be more involved in the group.
 
-
-
 during the final day of the lecture, we primarily focused on the value of collaboration. i worked with some classmates to create a presentation on this topic. from my perspective, the primary impact of collaboration is the ability to develop together. this means sharing knowledge, experiences, and tools/equipment to achieve a common goal as a group.
 
 ![](../images/11_dd/dd3.jpg)
