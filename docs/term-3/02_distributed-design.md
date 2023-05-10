@@ -12,7 +12,7 @@ in this seminar called "reflecting on distributed design," we're delving into th
 
     photo credit - caglar alkan
 
-t the "futures design toolkit" we discussed! it's a valuable resource for designers, educators, and students aiming to create sustainable futures. they provide step-by-step processes, exercises, and examples of amazing projects from around the world. it's all about critical thinking, imagination, and collaborating to tackle sustainability challenges.
+we discussed the "futures design toolkit" - it's a valuable resource for designers, educators, and students aiming to create sustainable futures. they provide step-by-step processes, exercises, and examples of amazing projects from around the world. it's all about critical thinking, imagination, and collaborating to tackle sustainability challenges.
 
 ![](../images/11_dd/dd2.jpg)
 
