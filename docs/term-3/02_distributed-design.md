@@ -6,23 +6,29 @@ hide:
 # distributed design
 april 2023
 
-to begin, we formed groups and used the mushroom model to examine a specific object, product or service. in our group, we focused on a plastic hair-clip. we then visited other groups who were examining chatgpt, fertilizer, and bread to ask and share questions. each group followed the model's structure, starting with the making section and ending with the power section. upon returning to our own tables, we shared our interactions and our representative also shared her interaction with the guests. one significant aspect was the feedback we received on the cultural value of the hair-clip and the various ways a seemingly simple product can be represented.
+in this seminar called "reflecting on distributed design," we're delving into the world of distributed design. it's not just about making things; it's about sharing knowledge, value, and power. we're exploring the distributed design platform (ddp), where different approaches like doughnut economics, decolonizing design, ancestral wisdom, and transfeminism come together. using the ddp reflection tree tool, we'll measure the impact of our creative projects and reflect on their environmental and social effects. this seminar supports emerging talents in the creative industry, pushing the boundaries of distributed design.
 
 ![](../images/11_dd/dd1.jpg)
 
-so, we worked on the distributed design platform reflection tree by ourselves and noted our scores. then we shared and talked about our scores for different values and aspects. we all agreed on some common points, especially about being open-source. we realized that being open-source doesn't mean it's easy to replicate. basically, if we want our projects to be useful, we need to make sure the descriptions and resources are easy to understand. otherwise, it won't be helpful for anyone who's interested. oh, and except for seher's project, we also noticed that we weren't focused on the value of regenerating the environment.
+    photo credit - caglar alkan
+
+t the "futures design toolkit" we discussed! it's a valuable resource for designers, educators, and students aiming to create sustainable futures. they provide step-by-step processes, exercises, and examples of amazing projects from around the world. it's all about critical thinking, imagination, and collaborating to tackle sustainability challenges.
 
 ![](../images/11_dd/dd2.jpg)
 
 ![](../images/11_dd/dd4.jpg)
 
-on the second day of learning, we focused on developing skills such as participation, collaboration, integration, and patience. we explored horizontal dynamics and engaged in active interactions with our peers. i was particularly interested in my teammates' projects, which encouraged me to be more involved in the group.
+during our group activities, we explored objects like a plastic hair-clip, chatgpt, fertilizer, and bread. we asked questions, shared ideas, and had some eye-opening interactions. who knew a simple hair-clip could have different cultural values?
 
-during the final day of the lecture, we primarily focused on the value of collaboration. i worked with some classmates to create a presentation on this topic. from my perspective, the primary impact of collaboration is the ability to develop together. this means sharing knowledge, experiences, and tools/equipment to achieve a common goal as a group.
+we also worked individually on the distributed design platform reflection tree. after scoring our projects, we discussed them as a group. we agreed that being open-source is important, but it's not just about being easy to replicate. clear project descriptions and understandable resources are crucial for usefulness. we also realized the need to focus more on regenerating the environment, seher's project stood out as an exception within our group.
 
 ![](../images/11_dd/dd3.jpg)
+    
+    photo credit - caglar alkan
 
-on the third day of our learning, we focused on developing our skills in participation, collaboration, integration, and teamwork. we engaged in horizontal, active, participatory, and creative dynamics with one another. it was exciting to work in a team and share our different perspectives. despite the limited time, we all prepared a presentation, presented it, and received feedback from our classmates.
+participation, collaboration, integration, and patience. these skills are essential for success. we had some fantastic dynamics in our group - horizontal, active, participatory, and creative. when we shared our perspectives and collaborated on presentations. we even received feedback from our classmates.
+
+key outcomes - exploring the distributed design platform, utilizing the futures design toolkit, and honing our skills. it's all about being creative, making a positive impact and sharing our knowledge.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -31,6 +37,6 @@ on the third day of our learning, we focused on developing our skills in partici
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhapFbKvg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhapFbKvg&#x2F;view?utm_content=DAFhapFbKvg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Untitled</a> by _AY
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhapFbKvg&#x2F;view?utm_content=DAFhapFbKvg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">group presintation</a> by _AY
 
 __AY
