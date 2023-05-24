@@ -15,14 +15,14 @@ we started sharing our interests and discussing the fields we wanted to investig
 
 ![](../../images/00_fabacademy/week4_MCI_alignment.jpg)
 
-**defining key concepts_**
+    //defining key concepts_
 
-  - diy projects
-  - fabrication
-  - modular
-  - digital crafts
-  - making/production
-  - gamification
+      - diy projects
+      - fabrication
+      - modular
+      - digital crafts
+      - making/production
+      - gamification
 
 based on these concepts, we determined that we wanted to delve into the modularity of diy design. specifically, we aimed to explore how to simplify the design process by employing a clear methodology that combines physical and digital tools. to accomplish this, we established three stages:
 
@@ -41,16 +41,16 @@ initially, we discussed both 3D and 2D options, and ultimately decided to concen
 
 based on these concepts, we determined that we wanted to delve into the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
 
-design process_
+    design process_
 
-  1. grid board
-  2. geometric pieces
-  3. pattern design
-  4. photo digitalisation
-  5. vinyl cutting
-  6. stencil making
-  7. tile production
-  8. pattern building
+      1. grid board
+      2. geometric pieces
+      3. pattern design
+      4. photo digitalisation
+      5. vinyl cutting
+      6. stencil making
+      7. tile production
+      8. pattern building
 
 
 #### grid board
