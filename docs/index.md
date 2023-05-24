@@ -3,13 +3,9 @@ hide:
     - toc
 ---
 
-![](../images/_About_/waving-guy-02.png)
-
+![](../images/_About/waving-guy-02.png)
 
 # **hello :wave:** 
-
-![](../images/_About_/waving-guy-02.png)
-
 
 a bunch of text with a bunch of pictures
 
