@@ -33,7 +33,7 @@ based on these concepts, we determined that we wanted to delve into the modulari
 **stage 3** - public installation
 
     project inspiration__
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?utm_content=DAFi52aesXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">inspo</a> by _AY
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?utm_content=DAFi52aesXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">tile-deco_inspiration</a> by _AY
 
 ### **project development**
 
@@ -57,19 +57,25 @@ design process_
 
 a diy tool kit was developed to create unique tile patterns and combinations.
 
-![](../../images/00_fabacademy/week4_MCI_grid.png)
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?utm_content=DAFj1IIkRXM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">board-design</a> by _AY
 
 during the grid board design process, efforts were made to prevent shading and reflections that would negatively impact the vinyl's photo-digitalization quality. however, due to the defined acrylic thickness and magnet sizes, these issues couldn't be completely eliminated. to address this, the acrylic surfaces were covered with a matte vinyl, which improved the photo-digitalization quality by reducing reflections. although the vinyl transfer onto the grid board proved to be challenging, the team was able to improve the design through trial and error, ultimately achieving satisfactory results with the third vinyl design.
 
-![](../../images/00_fabacademy/week4_MCI_vinyl.png)
 
 #### geometric pieces
 
-an issue we encountered was the instability of certain geometric pieces used to create the tile decoration design due to having only one magnet. During the presentation, one constructive criticism was to double the size of the grid board to avoid this problem, which could be a viable solution.
+we encountered an additional predicament pertaining to the incompatibility of certain geometric pieces utilized in the generation of the tile decoration design. some of these pieces were equipped with a solitary magnet, resulting in an unstable positioning on the grid. (during the presentation, one of the constructive criticisms suggested augmenting the size of the grid board as an optimal solution to this predicament.)
 
-![](../../images/00_fabacademy/week4_MCI_patterns.png)
+![](../../images/00_fabacademy/week4_MCI_patterns-min.jpg)
 
-we also discovered an efficient way to fix the magnets in place without wasting them. we experimented with different hole sizes in the acrylic board and covered each side of the acrylic with vinyl to ensure the magnets stay in place. however, the pieces can still be easily disassembled if needed.
+one of the noteworthy discoveries entailed developing an efficient methodology to affix the magnets without incurring wastage. we conducted experiments with varying aperture dimensions in the acrylic board to ascertain the most suitable fit. additionally, we employed vinyl to envelop each facet of the acrylic, thereby ensuring steadfast retention of the magnets. however, if the need arises to disassemble the pieces, the vinyl can be effortlessly detached.
 
 #### photo digitalisation
 
