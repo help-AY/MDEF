@@ -13,7 +13,7 @@ february_2023
 ### project alignment
 we started sharing our interests and discussing the fields we wanted to investigate in order to implement them into our interventions. these three circles illustrate the intersection of our main interests.
 
-![](../../images/00_fabacademy/week4_MCI_alignment.jpg)
+![](../../images/12_mcl-III/week4_MCI_alignment.jpg)
 
     //defining key concepts_
 
@@ -73,7 +73,7 @@ during the grid board design process, efforts were made to prevent shading and r
 
 we encountered an additional predicament pertaining to the incompatibility of certain geometric pieces utilized in the generation of the tile decoration design. some of these pieces were equipped with a solitary magnet, resulting in an unstable positioning on the grid. (during the presentation, one of the constructive criticisms suggested augmenting the size of the grid board as an optimal solution to this predicament.)
 
-![](../../images/00_fabacademy/week4_MCI_patterns-min.jpg)
+![](../../images/12_mcI-III/i/week4_MCI_patterns-min.jpg)
 
 one of the noteworthy discoveries entailed developing an efficient methodology to affix the magnets without incurring wastage. we conducted experiments with varying aperture dimensions in the acrylic board to ascertain the most suitable fit. additionally, we employed vinyl to envelop each facet of the acrylic, thereby ensuring steadfast retention of the magnets. however, if the need arises to disassemble the pieces, the vinyl can be effortlessly detached.
 
@@ -82,7 +82,7 @@ one of the noteworthy discoveries entailed developing an efficient methodology t
 the process of digitalization is an exciting journey! after trying out different methods and testing various versions, we decided to move from an analogue, physical process to a digital process. to begin with, we placed the tile in a well-lit space, preferably with natural light to avoid shadows. a softbox was useful in ensuring the best scan results (and it can be created at home if you're feeling adventurous!). after capturing the image and adjusting the contrast levels (using any available tool - we used photoshop, but free alternatives such as gimp or pixlr are great too), we only proceeded when we obtained a full black and white image.
 
 
-![](../images/12_mcl-III/i_trace-combined.PNG)
+![](../../images/12_mcl-III/i/i_trace-combined.PNG)
 
 the following step involved uploading the image to a vector-based software, such as illustrator (or whichever software is available). illustrator has a built-in feature for image tracing that produces a vectorized result. though the outcomes are not always perfect (and some adjustments may be necessary), we were able to use the image trace and manually redraw the stencil outline for a cleaner result.
 
@@ -90,7 +90,7 @@ once the outlines were obtained, it was easy to scale them appropriately (in our
 
 although the process took us about an hour to complete, we are continuously seeking ways to simplify the physical-to-digital conversion so that anyone can do it from the comfort of their own home. additionally, we intend to develop a tool that will allow users to visualize their patterns more quickly after aggregating them.
 
-literally one of the best weeks of the course so far. i always love it when the fabacademy staff are involved. 
+    literally one of the best weeks of the course so far. i always love it when the fabacademy staff are involved. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -100,6 +100,10 @@ literally one of the best weeks of the course so far. i always love it when the 
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?utm_content=DAFavYB6CeY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tile Deco</a> by caglaralkan
+
+# micro  challenge #2
+april_2023
+
 
 
 __AY
