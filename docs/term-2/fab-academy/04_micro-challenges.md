@@ -13,7 +13,8 @@ february_2023
 ### project alignment
 we started sharing our interests and discussing the fields we wanted to investigate in order to implement them into our interventions. these three circles illustrate the intersection of our main interests.
 
-![](../../images/12_mcl-III/week4_MCI_alignment.jpg)
+![](../../images/12_mcl-III/i_week4_MCI_alignment.jpg)
+
 
     //defining key concepts_
 
