@@ -7,7 +7,7 @@ hide:
 
 # **hello :wave:** 
 
-a bunch of text with a bunch of pictures
+a bunch of text with a bunch of pictures about what we did through out this 22/23 year
 
 check it out - or don't - up to you, really :)
 
