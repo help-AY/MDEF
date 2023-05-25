@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# micro  challenge #1
+## micro  challenge #1
 february_2023
 
 **tile deco** w/ caglar and marc
@@ -73,7 +73,7 @@ during the grid board design process, efforts were made to prevent shading and r
 
 we encountered an additional predicament pertaining to the incompatibility of certain geometric pieces utilized in the generation of the tile decoration design. some of these pieces were equipped with a solitary magnet, resulting in an unstable positioning on the grid. (during the presentation, one of the constructive criticisms suggested augmenting the size of the grid board as an optimal solution to this predicament.)
 
-![](../../images/12_mcI-III/i/week4_MCI_patterns-min.jpg)
+![](../../../12_mcI-III/i/week4_MCI_patterns-min.jpg)
 
 one of the noteworthy discoveries entailed developing an efficient methodology to affix the magnets without incurring wastage. we conducted experiments with varying aperture dimensions in the acrylic board to ascertain the most suitable fit. additionally, we employed vinyl to envelop each facet of the acrylic, thereby ensuring steadfast retention of the magnets. however, if the need arises to disassemble the pieces, the vinyl can be effortlessly detached.
 
@@ -101,7 +101,7 @@ although the process took us about an hour to complete, we are continuously seek
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?utm_content=DAFavYB6CeY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tile Deco</a> by caglaralkan
 
-# micro  challenge #2
+## micro  challenge #2
 april_2023
 
 
