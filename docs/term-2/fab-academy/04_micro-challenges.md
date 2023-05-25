@@ -16,7 +16,7 @@ we started sharing our interests and discussing the fields we wanted to investig
 ![](../../images/12_mcI-III/i_week4_MCI_alignment.jpg)
 
 
-    //defining key concepts_
+    // defining key concepts_
 
       - diy projects
       - fabrication
@@ -33,7 +33,7 @@ based on these concepts, we determined that we wanted to delve into the modulari
 
 **stage 3** - public installation
 
-    project inspiration__
+    // project inspiration__
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFi52aesXU&#x2F;view?utm_content=DAFi52aesXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">tile-deco_inspiration</a> by _AY
 
 ### **project development**
@@ -42,7 +42,7 @@ initially, we discussed both 3D and 2D options, and ultimately decided to concen
 
 based on these concepts, we determined that we wanted to delve into the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
 
-    design process_
+    // design process_
 
       1. grid board
       2. geometric pieces
@@ -91,7 +91,7 @@ once the outlines were obtained, it was easy to scale them appropriately (in our
 
 although the process took us about an hour to complete, we are continuously seeking ways to simplify the physical-to-digital conversion so that anyone can do it from the comfort of their own home. additionally, we intend to develop a tool that will allow users to visualize their patterns more quickly after aggregating them.
 
-    literally one of the best weeks of the course so far. 
+    // literally one of the best weeks of the course so far. 
     i always love it when the fabacademy staff are involved.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -106,6 +106,86 @@ although the process took us about an hour to complete, we are continuously seek
 ## //micro challenge #2
 april_2023
 
-![](../../images/12_mcI-III/ii_pixelcubes2.gif)
+**pixelcubes** w/caglar and marc
+
+*modular system to create digital models through physical interaction.*
+
+### project alignment
+we decided to continue the first challenge and develop iterations to improve it and make the process more automated.
+
+initially, we devised a tile decorating kit in Challenge I, which prompted us to embark on further development. our primary objective revolved around enhancing accessibility and user-friendliness through digitalization. moreover, we sought to elevate the kit from a two-dimensional (2D) platform to a three-dimensional (3D) realm. the overarching aspiration was to employ this project as an experimental arena for delving into 3D fabrication, serving as an intermediary between physical objects and their digital counterparts.
+
+![](../../images/12_mcI-III/ii_group-alignments.jpg)
+
+    // interventions: research project_
+
+    - create digital models through physical interaction
+    - how to transform a difficult process into a game
+    - how to define a DIY Kit to allow everyone to create 3D models
+    - create a process between physical and digital.
+
+### project development
+
+for reference, we conducted research on notable reference projects like mit's interactive shape-shifting table and reactivision improvisation with midi (reactable). nevertheless, time limitations compelled us to streamline our objectives and simplify them.
+
+    // design steps_
+
+    - interactive physical modular system to create myriad volumes (cubes)
+    - research around webcam detection software of movement and rotation of shapes (Fiducial ID, Firefly)
+    - how to combine and assemble cubes in order to create volumes (magnets, polarity).
+    - make the user interact with the software. 
+    - incorporate Arduino (button to restart)
+
+![](../../images/12_mcI-III/ii_concept-system.jpg)
+
+    // artifact description_
+
+    - physical Interactive space with cubes like pixels.
+    - recombine the locations of cubes to create myriad combinations.
+    - each cube has a Reactable Fiducial ID on each face.
+    - a camera connected to Firefly, Grasshopper detect and know the location and height of each cube.
+    - once the cubes have the desired shape, the camera scans them and generates a volume.
+    - export a 3D file and reproduce it with digital fabrication machines.
+
+![](../../images/12_mcI-III/ii_flowchart.jpg)
+
+### digitalization process_
+
+we started by directing focusing on the digitalization process. through research, we found a system known as "fiducial id," which operates via cameras and shares similarities with qr codes. distinct from qr codes, fiducial ids encompass more organic shapes. to capture the fiducial ids, we employed grasshopper-rhinoceros in conjunction with a plug-in program named "firefly." each cube is positioned on the grid and possesses a distinctive "fiducial id," embedding into it a parameter that translates it to the digital environment.
+
+    // fiducial ids_
+
+![](../../images/12_mcI-III/ii_reactivision02.png)
+
+    // fiducial id x grasshopper test
+
+![](../../images/12_mcI-III/ii_test1.gif)
+
+    // assign fiducial ids to shapes
+
+![](../../images/12_mcI-III/ii_test2.gif)
+
+### kit building
+
+we also worked on the physical object, which consisted of cubes made of wood. initially, we had 3d printed the cubes, which were made of two parts and used six magnets. however, this method was not appropriate because it took three hours to print each cube. therefore, we decided to build the cubes out of wood and insert the magnets on surfaces.
+
+to ensure free availability while interacting with the cubes, we used sphere-shaped magnets that could move inside a cavity and position themselves in the precise polarity to connect with the magnet of the next cube. we designed a magnet insert for each magnet to solve that problem, and we 3d printed them with a sla printer with resin.
+
+    // cubes building process
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?utm_content=DAFj1IIkRXM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ii_building-process (cubes)</a> by _AY
+
+    // cam-structure building process
+
+
+
+
 
 __AY
