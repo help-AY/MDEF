@@ -149,7 +149,7 @@ for reference, we conducted research on notable reference projects like mit's in
 
 ![](../../images/12_mcI-III/ii_flowchart.jpg)
 
-### digitalization process_
+### digitalization process
 
 we started by directing focusing on the digitalization process. through research, we found a system known as "fiducial id," which operates via cameras and shares similarities with qr codes. distinct from qr codes, fiducial ids encompass more organic shapes. to capture the fiducial ids, we employed grasshopper-rhinoceros in conjunction with a plug-in program named "firefly." each cube is positioned on the grid and possesses a distinctive "fiducial id," embedding into it a parameter that translates it to the digital environment.
 
@@ -231,43 +231,43 @@ we also used the cnc machine to build the grid with plywood. we designed and las
      DIGITAL/ANALOG OUT pins 3,5,6,11 (marked with a ~) can be used to digitalWrite, analogWrite, or Servo.write depending on the input status of that Firefly pin
      DIGITAL OUT pins 8,9,10,12,13 can be used to digitalWrite, Servo.write, or analogWrite depending on the input status of that Firefly pin
      */
-     
+
     #include <Servo.h>            // attach Servo library (http://www.arduino.cc/playground/ComponentLib/Servo)
     #include <pins_arduino.h>     // attach arduino pins header file to determine which board type is being used
-    
+
     #define BAUDRATE 115200       // Set the Baud Rate to an appropriate speed
     #define BUFFSIZE 512          // buffer one command at a time, 12 bytes is longer than the max length
-    
+
     /*==============================================================================
      * GLOBAL VARIABLES
      *============================================================================*/
-     
+
     char buffer[BUFFSIZE];        // declare buffer
     uint8_t bufferidx = 0;        // a type of unsigned integer of length 8 bits
     char *parseptr;
     char buffidx;
-    
+
     int counter = 0;
     int numcycles = 1000;
-    
+
     #if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega168__)                         // declare variables for STANDARD boards
       uint16_t APin0, APin1, APin2, APin3, APin4, APin5, DPin2, DPin4, DPin7;             // declare input variables
       uint16_t DPin3, DPin5, DPin6, DPin8, DPin9, DPin10, DPin11, DPin12, DPin13;         // declare output variables  
       Servo Servo3, Servo5, Servo6, Servo8, Servo9, Servo10, Servo11, Servo12, Servo13;   // declare Servo objects
     #endif
-    
+
     #if defined(__AVR_ATmega32U4__) || defined(__AVR_ATmega16U4__)                        // declare variables for LEONARDO board
       uint16_t APin0, APin1, APin2, APin3, APin4, APin5, DPin2, DPin4, DPin7;             // declare input variables
       uint16_t DPin3, DPin5, DPin6, DPin8, DPin9, DPin10, DPin11, DPin12, DPin13;         // declare output variables  
       Servo Servo3, Servo5, Servo6, Servo8, Servo9, Servo10, Servo11, Servo12, Servo13;   // declare Servo objects
     #endif
-    
+
     #if defined(__AVR_ATmega1280__) || defined(__AVR_ATmega2560__)                        // declare variables for MEGA boards
       uint16_t APin0, APin1, APin2, APin3, APin4, APin5, APin6, APin7, APin8, APin9, APin10, APin11, APin12, APin13, APin14, APin15, DPin22, DPin23, DPin24, DPin25, DPin26, DPin27, DPin28, DPin29, DPin30, DPin31;  // declare input variables
       uint16_t DPin2, DPin3, DPin4, DPin5, DPin6, DPin7, DPin8, DPin9, DPin10, DPin11, DPin12, DPin13, DPin32, DPin33, DPin34, DPin35, DPin36, DPin37, DPin38, DPin39, DPin40, DPin41, DPin42, DPin43, DPin44, DPin45, DPin46, DPin47, DPin48, DPin49, DPin50, DPin51, DPin52, DPin53;  // declare output variables  
       Servo Servo2, Servo3, Servo4, Servo5, Servo6, Servo7, Servo8, Servo9, Servo10, Servo11, Servo12, Servo13, Servo32, Servo33, Servo34, Servo35, Servo36, Servo37, Servo38, Servo39, Servo40, Servo41, Servo42, Servo43, Servo44, Servo45, Servo46, Servo47, Servo48, Servo49, Servo50, Servo51, Servo52, Servo53;  // declare Servo objects
     #endif
-    
+
     /*==============================================================================
      * SETUP() This code runs once
      *============================================================================*/
@@ -276,7 +276,7 @@ we also used the cnc machine to build the grid with plywood. we designed and las
       Init();                  //set initial pinmodes
       Serial.begin(BAUDRATE);  // Start Serial communication
     }
-    
+
     /*==============================================================================
      * LOOP() This code loops
      *============================================================================*/
@@ -292,11 +292,11 @@ we also used the cnc machine to build the grid with plywood. we designed and las
         counter ++;                         // increment the writecounter
       }
     }
-    
+
     /*==============================================================================
      * FUNCTIONS()
      *============================================================================*/
-     
+
     void Init(){
       #if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega168__)    //set pin mode for STANDARD boards
         pinMode(2, INPUT); 
@@ -323,7 +323,7 @@ we also used the cnc machine to build the grid with plywood. we designed and las
         pinMode(31, INPUT); 
       #endif
     }
-    
+
     void ReadInputs(){ 
       #if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega168__)    //read pins on STANDARD boards
         APin0 = analogRead(0);   
@@ -378,7 +378,7 @@ we also used the cnc machine to build the grid with plywood. we designed and las
         DPin31 = digitalRead(31);
       #endif
     }
-    
+
     void PrintToPort(){
       #if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega168__)    //print formatted string for STANDARD boards
         Serial.print(APin0); Serial.print(",");  
@@ -436,17 +436,17 @@ we also used the cnc machine to build the grid with plywood. we designed and las
         Serial.println("eol");  //end of line marker
       #endif
     }
-    
+
     void ReadSerial(){
       char c;    // holds one character from the serial port
       if (Serial.available()) {
         c = Serial.read();         // read one character
         buffer[bufferidx] = c;     // add to buffer
-        
+
         if (c == '\n') {  
           buffer[bufferidx+1] = 0; // terminate it
           parseptr = buffer;       // offload the buffer into temp variable
-          
+
           #if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega168__)  //parse string for STANDARD boards
             DPin13 = parsedecimal(parseptr);     // parse the first number
             parseptr = strchr(parseptr, ',')+1;  // move past the ","
@@ -671,7 +671,7 @@ we also used the cnc machine to build the grid with plywood. we designed and las
         if (bufferidx == BUFFSIZE-1) bufferidx = 0;  // if we get to the end of the buffer reset for safety
       }
     }
-    
+
     void WriteToPin(int _pin, int _value, Servo _servo){
     if (_value >= 1000 && _value < 2000)             // check if value should be used for Digital Write (HIGH/LOW)
     {      
@@ -695,7 +695,7 @@ we also used the cnc machine to build the grid with plywood. we designed and las
       _servo.write(_value);                          // Servo Write to the pin
       }
     }
-    
+
     uint32_t parsedecimal(char *str){
       uint32_t d = 0;
       while (str[0] != 0) {
@@ -711,6 +711,17 @@ we also used the cnc machine to build the grid with plywood. we designed and las
 this code is necessary to upload to the arduino uno in order to activate the *grasshopper x firefly* link. this code will link the digital grasshopper commands to a physical button (that was in our case).
 
 // possibilities are endless - here is a **[youtube channel](https://www.youtube.com/@TroyBaverstock)** i found quite useful when i was doing my research 
+
+    // final presentation
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFddcJntxw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFddcJntxw&#x2F;view?utm_content=DAFddcJntxw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pixel Cubes</a> by Marc Parés
 
 
 
