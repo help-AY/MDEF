@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-## micro  challenge #1
+## // micro-challenge #1
 february_2023
 
 **tile deco** w/ caglar and marc
@@ -13,7 +13,7 @@ february_2023
 ### project alignment
 we started sharing our interests and discussing the fields we wanted to investigate in order to implement them into our interventions. these three circles illustrate the intersection of our main interests.
 
-![](../../images/12_mcl-III/i_week4_MCI_alignment.jpg)
+![](../../images/12_mcI-III/i_week4_MCI_alignment.jpg)
 
 
     //defining key concepts_
@@ -102,7 +102,7 @@ although the process took us about an hour to complete, we are continuously seek
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?utm_content=DAFavYB6CeY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tile Deco</a> by caglaralkan
 
-## micro  challenge #2
+## //micro challenge #2
 april_2023
 
 
