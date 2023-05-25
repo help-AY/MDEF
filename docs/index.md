@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-![](../images/_About/waving-guy-02.png)
-
 # **hello :wave:** 
 
 a bunch of text with a bunch of pictures about what we did through out this 22/23 year
