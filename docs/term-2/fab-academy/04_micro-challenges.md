@@ -712,6 +712,10 @@ this code is necessary to upload to the arduino uno in order to activate the *gr
 
 // possibilities are endless - here is a **[youtube channel](https://www.youtube.com/@TroyBaverstock)** i found quite useful when i was doing my research 
 
+![](../../images/12_mcI-III/ii_pixelcubes.gif)
+
+![](../../images/12_mcI-III/ii_pixelcubes2.gif)
+
     // final presentation
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
