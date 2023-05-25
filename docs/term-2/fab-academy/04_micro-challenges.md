@@ -82,7 +82,7 @@ one of the noteworthy discoveries entailed developing an efficient methodology t
 the process of digitalization is an exciting journey! after trying out different methods and testing various versions, we decided to move from an analogue, physical process to a digital process. to begin with, we placed the tile in a well-lit space, preferably with natural light to avoid shadows. a softbox was useful in ensuring the best scan results (and it can be created at home if you're feeling adventurous!). after capturing the image and adjusting the contrast levels (using any available tool - we used photoshop, but free alternatives such as gimp or pixlr are great too), we only proceeded when we obtained a full black and white image.
 
 
-![](../../images/12_mcl-III/i_trace-combined.PNG)
+![](../../images/12_mcI-III/i_trace-combined.PNG)
 
 the following step involved uploading the image to a vector-based software, such as illustrator (or whichever software is available). illustrator has a built-in feature for image tracing that produces a vectorized result. though the outcomes are not always perfect (and some adjustments may be necessary), we were able to use the image trace and manually redraw the stencil outline for a cleaner result.
 
