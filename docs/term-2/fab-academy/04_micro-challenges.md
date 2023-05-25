@@ -91,7 +91,8 @@ once the outlines were obtained, it was easy to scale them appropriately (in our
 
 although the process took us about an hour to complete, we are continuously seeking ways to simplify the physical-to-digital conversion so that anyone can do it from the comfort of their own home. additionally, we intend to develop a tool that will allow users to visualize their patterns more quickly after aggregating them.
 
-    literally one of the best weeks of the course so far. i always love it when the fabacademy staff are involved. 
+    literally one of the best weeks of the course so far. 
+    i always love it when the fabacademy staff are involved.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -105,6 +106,6 @@ although the process took us about an hour to complete, we are continuously seek
 ## //micro challenge #2
 april_2023
 
-
+![](../../images/12_mcI-III/ii_pixelcubes2.gif)
 
 __AY
