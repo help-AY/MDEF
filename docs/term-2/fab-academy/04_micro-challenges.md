@@ -180,7 +180,9 @@ to ensure free availability while interacting with the cubes, we used sphere-sha
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1b1B_xY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1b1B_xY&#x2F;view?utm_content=DAFj1b1B_xY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ii_building-process (cubes)</a> by _AY
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1b1B_xY&#x2F;view?utm_content=DAFj1b1B_xY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ii_building-process (cubes)</a> by _AY 
+
+    *the slides sometimes lag -  may show a different set of slides. in case of repetition, please click the link to view.
 
 we also used the cnc machine to build the grid with plywood. we designed and laser-cut acrylic to create a structure that held the camera above the grid. this structure could be moved around to different positions on the grid for capturing the cubes clearly.
 
