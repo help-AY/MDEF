@@ -65,7 +65,7 @@ a diy tool kit was developed to create unique tile patterns and combinations.
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?utm_content=DAFj1IIkRXM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">board-design</a> by _AY
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj1IIkRXM&#x2F;view?utm_content=DAFj1IIkRXM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">i_building-process (tile-deco)</a> by _AY
 
 during the grid board design process, efforts were made to prevent shading and reflections that would negatively impact the vinyl's photo-digitalization quality. however, due to the defined acrylic thickness and magnet sizes, these issues couldn't be completely eliminated. to address this, the acrylic surfaces were covered with a matte vinyl, which improved the photo-digitalization quality by reducing reflections. although the vinyl transfer onto the grid board proved to be challenging, the team was able to improve the design through trial and error, ultimately achieving satisfactory results with the third vinyl design.
 
