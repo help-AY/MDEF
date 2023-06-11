@@ -41,7 +41,7 @@ mar was generous enough to share a small amount of crypto (tezos) - for us to un
 
 ![](../images/13_dao/objkt.jpg)
 
-i created a series of three of a mathematical computationaly designed vase and uploaded it on **[objkt.com](https://objkt.com/asset/KT1GE8HJRbnh5UUk1PP6zLwMUvf1tmCw2mK8/0)** - no one even placed an offer though. a lesson to understand the importance of a digital presence in todays day and age. 
+i created a series of three of a "mathematical computational" vase and uploaded it on **[objkt.com](https://objkt.com/asset/KT1GE8HJRbnh5UUk1PP6zLwMUvf1tmCw2mK8/0)** - no one even placed an offer though. a lesson to understand the importance of a digital presence in todays day and age. 
 
     if you want.. you could.. place an offer.. <3
 
