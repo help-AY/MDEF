@@ -18,22 +18,21 @@ however, as the classes progressed and we delved deeper into the subject matter,
 
 i must admit that my initial judgment was influenced by a degree of condescension and hastiness. yet, as we dedicated more time and attention to exploring these topics, i came to appreciate the intricacies of communication systems and the extensive collaborative efforts they entail. the notion of decentralized systems and transparent transactions challenged my preconceived notions, raising questions about their potential to democratize access to financial services and foster artistic expression. what i initially dismissed as mere "trends" actually held immense possibilities and transformative potential.
 
-## part 2_
+## part b_
 *with Mar Canet*
 
+10 industries that **blockchain will disrupt** in the future:
 
-10 industries that blockchain will disrupt in the future:
-
-    banking
-    cybersecurity
-    supply chain management
-    healthcare
-    government
-    insurance
-    transportation
-    cloud storage
-    real estate
-    art and design
+    - banking
+    - cybersecurity
+    - supply chain management
+    - healthcare
+    - government
+    - insurance
+    - transportation
+    - cloud storage
+    - real estate
+    - art and design
 
 the class covered the topic of digital arts and nfts, mainly. we went over what the blockchain was and its intersection with arts and artifical intelligence. we also had a discussion about the future of banking and finances with the boom in the cryptocurrency that has been going on for the past few years. this concept was not foreign to me, eventhough i felt no interest to learn about it generally, i found myself really indulged in the class and its content. 
 
