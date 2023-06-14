@@ -103,6 +103,10 @@ although the process took us about an hour to complete, we are continuously seek
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?utm_content=DAFavYB6CeY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tile Deco</a> by caglaralkan
 
+**resources**
+
+ - link to original repo **[here](https://github.com/paresmarc/tiledeco)**
+
 ## //micro challenge #2
 april_2023
 
@@ -728,6 +732,10 @@ this code is necessary to upload to the arduino uno in order to activate the *gr
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFddcJntxw&#x2F;view?utm_content=DAFddcJntxw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pixel Cubes</a> by Marc Parés
+
+**resources**
+
+ - link to original repo **[here](https://github.com/paresmarc/pixelcubes)**
 
     // design dialouges ii demonstration
 
