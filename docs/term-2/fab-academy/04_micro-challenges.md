@@ -737,9 +737,4 @@ this code is necessary to upload to the arduino uno in order to activate the *gr
 
  - link to original repo **[here](https://github.com/paresmarc/pixelcubes)**
 
-    // design dialouges ii demonstration
-
-
-
-
 __AY

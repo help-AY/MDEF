@@ -3,34 +3,30 @@ hide:
     - toc
 ---
 
-# distributed design
-april 2023
+# prototyping for design
+may - june 2023
 
-to begin, we formed groups and used the mushroom model to examine a specific object, product or service. in our group, we focused on a plastic hair-clip. we then visited other groups who were examining chatgpt, fertilizer, and bread to ask and share questions. each group followed the model's structure, starting with the making section and ending with the power section. upon returning to our own tables, we shared our interactions and our representative also shared her interaction with the guests. one significant aspect was the feedback we received on the cultural value of the hair-clip and the various ways a seemingly simple product can be represented.
+## robotics
+w/ josep
 
-![](../images/11_dd/dd1.jpg)
+we had the chance to dive deep into the exciting world of controlling a robotic arm using grasshopper and simulating its movements in rhino. with josep as our guide, we embarked on a journey to install the necessary library for the robotic arm. and let me tell you, his demonstration using a grasshopper example sketch was mind-blowing! the robot was actually writing letters! inspired by the demo, i eagerly installed the library on my computer and couldn't wait to jump into the simulation. guess what? the installation was a piece of cake, and in no time, i was skillfully maneuvering the robotic arm within the rhino/grasshopper simulation. it felt so seamless and immersive, like i was a master robot controller! this experience opened my eyes to the incredible possibilities of robotic arm control.
 
-so, we worked on the distributed design platform reflection tree by ourselves and noted our scores. then we shared and talked about our scores for different values and aspects. we all agreed on some common points, especially about being open-source. we realized that being open-source doesn't mean it's easy to replicate. basically, if we want our projects to be useful, we need to make sure the descriptions and resources are easy to understand. otherwise, it won't be helpful for anyone who's interested. oh, and except for seher's project, we also noticed that we weren't focused on the value of regenerating the environment.
+## blender as an interaface
+w/ victor
 
-![](../images/11_dd/dd2.jpg)
+during this course, victor introduced us to the incredible possibilities offered by blender, immersing us in its features and shedding light on the fascinating company behind it. before taking this class, i had limited knowledge of blender and mainly saw it as a 3d modeling program. however, i quickly discovered that blender goes far beyond that, offering a whole world of creative opportunities.
 
-![](../images/11_dd/dd4.jpg)
+one aspect that immediately grabbed my attention was the remarkable story of blender as a company. we delved into their use of an open-source gnu gpl license, which gives users the freedom to utilize blender for any purpose, share it freely, explore its inner workings, and even modify and distribute it, as long as the changes are made available to others. this unique approach has sustained blender since it was established in 1994. as an american, this stood out to me because the typical business perspective i've encountered tends to prioritize closed, proprietary intellectual property models. blender's ability to thrive as a non-profit organization for nearly three decades is a testament to the strength of its dedicated community. the users truly own the software, and all the exciting new features developed are accessible to everyone. over the years, blender has expanded its platform to include a wide range of tools, such as 3d modeling, sculpting, animation, uv mapping, rendering, and video editing capabilities.
 
-on the second day of learning, we focused on developing skills such as participation, collaboration, integration, and patience. we explored horizontal dynamics and engaged in active interactions with our peers. i was particularly interested in my teammates' projects, which encouraged me to be more involved in the group.
+the incredible achievements of blender reinforce my belief in the transformative potential of non-profit endeavors. while there is often a debate about whether closed, patentable intellectual property models drive innovation, blender serves as a shining example of how open software and community collaboration can lead to extraordinary outcomes without solely focusing on profits. the most significant lesson i took away from this week's discussions was the power of the open and free business model. i am confident that i will further explore and consider this aspect when contemplating future business models.
 
-during the final day of the lecture, we primarily focused on the value of collaboration. i worked with some classmates to create a presentation on this topic. from my perspective, the primary impact of collaboration is the ability to develop together. this means sharing knowledge, experiences, and tools/equipment to achieve a common goal as a group.
+## live coding as a human interface
+w/ citlali and xavi
 
-![](../images/11_dd/dd3.jpg)
+uring our course, we had the privilege of being captivated by Citlali Hernandez's mesmerizing presentation on interaction design, electronics, and embodiment. i was genuinely enthralled by her work, as it resonated deeply with my own interests. one aspect that truly fascinated me was Citlali's exploration of designing wearables for performers. initially, she refrained from personally wearing the creations, but she soon recognized the value of immersing herself in the experience by donning and testing them during performances. this shift had a profound impact on her work and opened up new creative possibilities. similarly, although i have been involved in designing wearables for performers, i have yet to fully embrace the personal aspect of wearing and testing them. inspired by Citlali's journey, i now feel compelled to engage more intimately with the process, including the act of performing myself. despite my past hesitation, i am now more open to exploring this avenue of self-expression.
 
-on the third day of our learning, we focused on developing our skills in participation, collaboration, integration, and teamwork. we engaged in horizontal, active, participatory, and creative dynamics with one another. it was exciting to work in a team and share our different perspectives. despite the limited time, we all prepared a presentation, presented it, and received feedback from our classmates.
+after the presentation, Citlali introduced us to the captivating world of live coding, a practice where individuals code visualizations and music in real-time, often as part of live performances. she shared insights about the vibrant local and international communities of artists that have emerged around these events, particularly within the realm of electronic music. in class, we had the opportunity to experiment with hydra, a platform developed by olivia jack. hydra is a live coding video synth that enables users to create animations directly in the browser. its seamless integration of audio and video inputs and outputs, coupled with its user-friendly interface, makes it accessible even for beginners. participating in this class was an absolute delight as it unveiled an entirely new universe of video animation tools, communities, and practices that were previously unknown to me. it sparked a sense of curiosity and excitement within me to further explore these realms of creativity.
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhapFbKvg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhapFbKvg&#x2F;view?utm_content=DAFhapFbKvg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Untitled</a> by _AY
+check out **[hydra](https://hydra.ojack.xyz/)**
 
 __AY
