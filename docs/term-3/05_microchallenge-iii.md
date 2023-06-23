@@ -14,6 +14,8 @@ A DIY ToolKit to design and build tiles through a process that combines physical
 
 ## project alignmnet 
 
+![](../../images/12_mcI-III/i_week4_MCI_alignment.jpg)
+
 we started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. this three circles show the intersection between our main interests.
 
 We decided to continue the **[first challenge](https://github.com/paresmarc/tiledeco)** and develop iterations to improve it and make it a more automated process.
