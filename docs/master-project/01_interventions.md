@@ -23,7 +23,13 @@ the idea of this small worshop was to understand the basics of a 3D printer - cl
 ## 03_intervention - just-make series_cardboard furniture
 december_2022
 
-wip
+a third step for us was to evaluate the quality of the online education as non-makers. we did some research to find what is easily accessible for everyone. caglar had the most experience with this as his background is industrial design, i understood how to read drawings clearly. we invited our colleagues to evaluate this experience. 
+
+we found this cardboard chair - becasue 1. its cheap and 2. all its ionformation is accessible online. check out **[the chair](https://www.instructables.com/One-Piece-Cardboard-Chair/)** if you want :)
+
+
+
+
 
 ## 04_intervention - just-make series_tote 2.0
 december_2022
