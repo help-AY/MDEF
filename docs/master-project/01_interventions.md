@@ -27,9 +27,13 @@ a third step for us was to evaluate the quality of the online education as non-m
 
 we found this cardboard chair - becasue 1. its cheap and 2. all its ionformation is accessible online. check out **[the chair](https://www.instructables.com/One-Piece-Cardboard-Chair/)** if you want :)
 
+    initial steps looked like this_
+![](../images/00_interventions/all-steps-2.png)
 
+    after simplifying the template for printing
+![](../images/00_interventions/simplifyed-steps.png)
 
-
+ 
 
 ## 04_intervention - just-make series_tote 2.0
 december_2022
