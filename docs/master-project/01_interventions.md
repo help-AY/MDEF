@@ -48,9 +48,11 @@ overall i thought the steps were far too complicated to be read clearly - also i
 ### 04_intervention - just-make series_tote 2.0
 december_2022
 
-wip
-
 ![](../images/00_interventions/sawing_workshop.jpg)
+
+lastly, our final involvement took place during a workshop organized by cdef - caixa d’eines i feines - a collaborative platform - we only took part, we did not organize anything. this workshop encompassed more than sewing; it centered around the exchange of knowledge, tools, materials, and care among participants. throughout the event, valuable insights were shared during the course of a single evening.
+
+drawing upon collective sewing experience and expertise, the group aimed to inspire each other to explore the use of a sewing machine. for one member, it marked their first experience with machine sewing. collaboratively, various items were repaired, and a fabric shopping bag was successfully crafted – a project previously attempted by hand. this process highlighted the substantial impact of accumulated experience and clearer instructions on the final outcome.
 
 ## application phase;
 
