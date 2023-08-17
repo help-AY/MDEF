@@ -40,7 +40,7 @@ based on these concepts, we determined that we wanted to delve into the modulari
 
 initially, we discussed both 3D and 2D options, and ultimately decided to concentrate on the 2D alternative. for a basic tile decoration, we required vinyl designs that would be attached to a stencil to transfer the ceramic ink. rather than supplying pre-made patterns, stickers, or vinyls, we opted to create a grid board that would enable users to create their own distinct designs.
 
-based on these concepts, we determined that we wanted to delve into the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
+based on these concepts, we determined that we wanted to explore the modularity of DIY design. specifically, we aimed to explore how to simplify the design process
 
     // design process_
 
