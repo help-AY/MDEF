@@ -5,27 +5,30 @@ hide:
 
 # interventions
 
-## 01_intervention - just-make series_tote
-november 2022
+## testing-phase;
+
+### 01_intervention - just-make series_tote
+november_2022
 
 <iframe width="910" height="512" src="https://www.youtube.com/embed/cmkV1NR8Gg0" title="221106_Just-Make-Series_001_Tote-Bag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-the challenge now was to design a certain article, whether it be a pair of pants or a tote bag (keep in mind that i have no prior experience in textiles) and invite a few people to join this small intervention to create a small intimate workshop (without assessing their skills prior). this idea of a small "production party" - prodparty for short (coined by our friend - korbi). also acted as a small networkijng event. we all talked, learned, understood and shared a decent amount of information, both related to the workshop and not. 
+the challenge now was to design a specific article, whether it be a pair of pants or a tote bag (keeping in mind that i have no prior experience in textiles), and invite a few people to join this small intervention to create a close, intimate workshop (without assessing their skills beforehand). this idea of a small "production party" - "prodparty" for short (coined by our friend, korbi) - also acted as a networking event. we all talked, learned, understood, and shared a significant amount of information, both related to the workshop and unrelated.
 
-## 02_intervention - just-make series_clay cup
+### 02_intervention - just-make series_clay cup
 november_2022
 
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/H74tl_v62FQ" title="221123_Just-Make-Series_002_Clay-Cup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-the idea of this small worshop was to understand the basics of a 3D printer - clay to be specific. the challenge was to get familiar with the material and educate about the basics of deisgning a basic cup on a digital software - we used rhino 3d - and then using the digital software "slice" the model to create stackable layers in order to articulate the object in 3 dimensions. 
+the idea of this small workshop was to understand the basics of a 3d printer - clay to be specific. the challenge was to get familiar with the material and educate about the basics of designing a basic cup on a digital software - we used rhino 3d - and then using the digital software "slice" the model to create stackable layers in order to articulate the object in 3-dimensions.
 
-
-## 03_intervention - just-make series_cardboard furniture
+### 03_intervention - just-make series_cardboard furniture
 december_2022
 
-a third step for us was to evaluate the quality of the online education as non-makers. we did some research to find what is easily accessible for everyone. caglar had the most experience with this as his background is industrial design, i understood how to read drawings clearly. we invited our colleagues to evaluate this experience. 
+a third step for us was to evaluate the quality of the online education as non-makers. we did some research to find what is easily accessible for everyone. caglar had the most experience with this as his background is industrial design, i understood how to read drawings clearly. we invited our colleagues to evaluate this experience.
 
-we found this cardboard chair - becasue 1. its cheap and 2. all its ionformation is accessible online. check out **[the chair](https://www.instructables.com/One-Piece-Cardboard-Chair/)** if you want :)
+we found this cardboard chair - because 1. its cheap and 2. all its information is accessible online. check out **[the chair](https://www.instructables.com/One-Piece-Cardboard-Chair/)** if you want :)
+
+overall i thought the steps were far too complicated to be read clearly - also i realized the lack of any cad drawings (with clear dimensions/angles) could be challenging for some people to follow along with. 
 
     initial steps looked like this_
 ![](../images/00_interventions/all-steps-2.png)
@@ -42,9 +45,18 @@ we found this cardboard chair - becasue 1. its cheap and 2. all its ionformation
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFrmtnRpIo&#x2F;view?utm_content=DAFrmtnRpIo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">03_cardboard-furniture</a> by _AY
 
-## 04_intervention - just-make series_tote 2.0
+### 04_intervention - just-make series_tote 2.0
 december_2022
 
 wip
+
+![](../images/00_interventions/sawing_workshop.jpg)
+
+## application phase;
+
+### 05_intervention - mkrspc_tote 2.0
+march/june_2023
+
+
 
 __AY 
