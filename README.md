@@ -10,3 +10,9 @@ git clone git@github.com:fablabbcn/mdef-template.git
 ```
 
 You can visit the template demo here: https://fablabbcn.github.io/mdef-template/
+
+ 
+![](ii_test1.gif)
+![](ii_test2.gif)
+![](ii_pixelcubes1.gif)
+![](ii_pixelcubes2.gif)
