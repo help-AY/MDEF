@@ -56,7 +56,7 @@ drawing upon collective sewing experience and expertise, the group aimed to insp
 
 ## **application phase**
 
-### mkrspc_tile deco - development
+### 05_mkrspc_tile deco - development
 march/june_2023
 
 *play in the physical - convert to the digital*
