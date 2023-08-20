@@ -168,17 +168,19 @@ we applied the same fundamentals steps to perfect the application/process - simp
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmXSLLBpo&#x2F;view?utm_content=DAFmXSLLBpo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">iii_tile-design_process</a> by _AY
 
-#### 05_internvention - pattern making and textile printing
+### 06_internvention - pattern making and textile printing
+
+#### 01_@mkrspc x caixa d’eines y feines
 
 as we planned after the second term, we went ahead and did some tests with our gadget and design idea. our main focus, like we said before, is all about helping out those maker spaces and getting folks into using digital tools for their creative projects.
 
 we took our device from flat to 3d, making it even cooler. we brainstormed some other ways to use it too. when we tried it out, we wanted to keep things hands-on and practical, you know? we were looking at stuff like how easy it is to try out and if it actually makes sense. that led us to two cool ideas: making designs for screen-printing and playing around with hydraulic tiles.
 
-so, we teamed up with caixa d’eines y feines for a screen-printing workshop. but things didn't go as planned – there was a rainstorm and the school was flooded with rain and we were unable to gather the needed equipment. luckily, we had prepared prior with precut stencils and some of the screenprinting equipment gathered. 
+so, we teamed up with caixa d’eines y feines for a screen-printing workshop. but things didn't go as planned – there was a rainstorm and the school was flooded with rain and we were unable to gather the needed equipment. luckily, we had prepared precut stencils and some of the screenprinting equipment gathered. 
 
-we showed how to stick the vinyl onto the frame with tape and gave a demo using tweezers, scissors, and other stuff we brought.
+we explained how to stick the vinyl onto the frame with tape and gave a demo using tweezers, scissors, and other stuff we brought.
 
-because of a surprise rainstorm, only four people showed up for the workshop. they brought their own fabric. we wanted them to lead the way, you know, follow their creative process. that's the whole deal with caixa d’eines y feines – they're all about supporting makers. after we got the stencils onto the frames, they picked their colors, and the screen-printing began.
+ only four people showed up for the workshop (due to the weather conditions). they came prepared with their own fabric. we wanted them to lead the way and follow their creative process. after we got the stencils onto the frames, they picked their colors, and the screen-printing began. that is what caixa d’eines y feines stand for – they're all about supporting makers and helping the community. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -189,8 +191,25 @@ because of a surprise rainstorm, only four people showed up for the workshop. th
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFryhn4Ksw&#x2F;view?utm_content=DAFryhn4Ksw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">intervention-i</a> by _AY
 
+#### 02_@mkrspc x caixa d’eines y feines
 
+just as we planned, we organized a second screen printing workshop at the cdef anniversary bash. this was our chance to put our gadget, which we developed during the past few months, to the test – we called it the phygital therapy - wip imo. we had more than 30 makers from all kinds of backgrounds, from architects to finance folks.
 
+we gave a quick rundown of what the workshop was all about and got everyone clued in on the gear and how things would roll. i led the way, showing how to work the system for designing. meanwhile, marc pares and caglar alkan tackled the vinyl cutting and got the stencils ready for the screen printing process.
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsEkcqxpQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFsEkcqxpQ&#x2F;view?utm_content=DAFsEkcqxpQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">intervention-ii</a> by _AY
+
+ while the prototype had room for improvement – the detection system wasn't as precise as we aimed for – participants still had a blast crafting their own designs using the physical pieces and witnessing the quick digital transformation. while creating, participants shared some insightful feedback. the magnets in the grid brought a bit of confusion, since they restricted item placement. we explained that grasshopper picked up shapes via the magnets in the center of each square, which cleared things up. still, loads of fantastic and one-of-a-kind designs emerged.
+
+collaborating with caixa d’eines got us noticed, drawing plenty of curious folks eager to take part. plus, being in a public park meant passersby wanted in on the action too. a crew of urban sketchers got super into it and even used screen-printing to get a momento of their trip to barcelona in their notebooks.
+
+![](../../images/00_interventions/w4.png)
 
 __AY 
